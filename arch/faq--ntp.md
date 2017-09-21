@@ -1,6 +1,6 @@
------ cat /etc/ntp.conf -----
-1)	/etc/ntp.conf
+*   /etc/ntp.conf
 
+```txt
 # You do need to talk to an NTP server or two (or three).
 #server ntp.your-provider.example
 server fritz.box iburst
@@ -12,14 +12,25 @@ server 0.de.pool.ntp.org iburst
 server 1.de.pool.ntp.org iburst
 server 2.de.pool.ntp.org iburst
 server 3.de.pool.ntp.org iburst
+```
 
-2)	raspi-config
-	4 Wait for Network at Boot
-n)	[cmd]
 
-#!/bin/bash
+---
+*   raspi-config
+
+>>>
+4 Wait for Network at Boot
+>>>
+
+
+---
+*   konsole
+
+```bash
+#!/usr/bin/env bash
 
 sudo systemctl stop ntp && sleep 2 && sudo systemctl start ntp && printf " \u2713 Fertig\t\u2026 start ntp\n"
 ntpq -p
 
 # wait $!;
+```
