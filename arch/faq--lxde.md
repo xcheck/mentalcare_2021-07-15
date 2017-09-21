@@ -1,18 +1,16 @@
------ pcmanfm = Favoriten   #RasPi -----
+### pcmanfm^RasPi *= Favoriten*
 
 *   ~/.gtk-bookmarks
-
 *   ~/.config/gtk-3.0/bookmarks   # this supersedes 1)
 
 
------ xdg-user-dirs  = User Folder umbenennen   #RasPi -----
+### xdg-user-dirs^RasPi  *= User Folder umbenennen*
 
 *   /etc/xdg/user-dirs.defaults
-
 *   ~/.config/user-dirs.*
 
 
------ xset = Screensaver deaktivieren   #RasPi -----
+### xset^RasPi *= Screensaver deaktivieren*
 
 *   /home/pi/.config/lxsession/LXDE-pi/autostart   # xset q
 
