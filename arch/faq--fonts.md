@@ -65,12 +65,10 @@ Description: Schriften mit den gleichen Metriken wie Times, Arial und Courier
 
 ### Windows Fonts
 
-```
-sudo fc-cache -f
-```
-
-
 |windows path|linux path  
 |---|--  
 |%SYTEMROOT%\Fonts|~/.local/share/fonts/  
 ||/usr/local/share/fonts/  
+
+
+> sudo fc-cache -f
