@@ -1,8 +1,8 @@
-## Debian 9 "Stretch" spin-off Raspbian
+### Debian 9 "Stretch" spin-off Raspbian
 
 ```
-kde-l10n-de libreoffice-style-galaxy libreoffice-l10n-de libreoffice-help-de firefox-esr-l10n-de geany-plugin-spellcheck   # /usr/share/myspell/dicts
-enchant (aspell-de) hunspell-de-de hyphen-de mythes-de
+kde-l10n-de libreoffice-style-galaxy libreoffice-l10n-de libreoffice-help-de geany-plugin-spellcheck [firefox-esr-l10n-de]
+enchant (aspell-de) hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
 fonts-crosextra-caladea
 fonts-crosextra-carlito
 fonts-mathjax
@@ -11,14 +11,14 @@ ttf-mscorefonts-installer   # phase shift internal: transition ttf-liberation to
 gnome-keyring   # requisite w/ evolution
 ```
 
----
-*quote window*
 
->>>
+#### quote window
+
+>
 For an example of well-hinted fonts I personally 
 recommend the liberation fonts, but only v1, the 2.0 update broke the world 
 class hinting the fonts had, which is why debian has both.
->>> 
+>
 
 
 ```
@@ -63,16 +63,14 @@ Description: Schriften mit den gleichen Metriken wie Times, Arial und Courier
 ```
 
 
-## Windows Fonts
+### Windows Fonts
 
-Quelle: Linux-Umzug, c't 2014, Heft 19, Seite 138
-
-
-%SYTEMROOT%\Fonts -->
-
-a) ~/.local/share/fonts/
-
-b) /usr/local/share/fonts/ (als root)
+```
+sudo fc-cache -f
+```
 
 
-`sudo fc-cache -f`
+|windows path|linux path  
+|---|--  
+|%SYTEMROOT%\Fonts|~/.local/share/fonts/  
+||/usr/local/share/fonts/  
