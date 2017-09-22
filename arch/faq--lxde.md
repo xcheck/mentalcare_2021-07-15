@@ -15,6 +15,8 @@
 *   /home/pi/.config/lxsession/LXDE-pi/autostart   # xset q
 
 ```
-@xset s 0 0
-@xset dpms 0 0 0
+#@xset s 0 0
+#@xset dpms 0 0 0
+@xset off
+@xset -dpms
 ```
