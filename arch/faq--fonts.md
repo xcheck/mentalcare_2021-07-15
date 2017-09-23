@@ -11,6 +11,11 @@ ttf-mscorefonts-installer   # phase shift internal: transition ttf-liberation to
 gnome-keyring   # requisite w/ evolution
 ```
 
+|cmd |conf |rel  
+|---|--|--  
+| localectl [list-locales¦set-locale] | /etc/locale.conf | Systemd  
+| locale | /etc/default/locale |  
+
 
 #### quote window
 
