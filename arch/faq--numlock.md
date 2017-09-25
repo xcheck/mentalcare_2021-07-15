@@ -7,25 +7,32 @@
 
 
 ---
-### numlockx *desktop* // app Keyboard alternative
+### numlock *desktop* // app Keyboard alternative
 
-_**Cinnamon**_
+_**gsettings**_
+
+    gsettings list-recursively | fgrep lock
+
+
+_**: Cinnamon**_
 
     /org/cinnamon/settings-daemon/peripherals/keyboard/numlock-state		'on'  
     /org/cinnamon/settings-daemon/peripherals/keyboard/remember-numlock-state	wahr  
 
 
-1)	/etc/X11/Xsession.d/55numlockx   # apt install numlockx
+_**: otha**_   # apt install numlockx
+
+[¹] /etc/X11/Xsession.d/55numlockx
 
 - Initial settings
 
 
-2)	/etc/default/numlockx
+[²] /etc/default/numlockx
 
-	NUMLOCK=auto   # (Debian9)
+	NUMLOCK=auto   # (Debian9) as is
 	NUMLOCK=on   # (Mint18)
 
 
-3)  crontab -e   # /var/spool/cron/crontabs/pi
+[³] crontab -e   # /var/spool/cron/crontabs/pi
 
 - numlockx on @ reboot
