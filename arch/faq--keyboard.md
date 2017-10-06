@@ -1,3 +1,18 @@
+### keyboard map
+
+$ grep U2026 /usr/share/X11/xkb/symbols/de   # (Debian9)
+
+_**[AltGr]+[.] ^ShortCut … ^aka hellip**_
+
+```
+[44]:     key <AB09>	{ [    period,      colon,                U2026,     division 	] };
+```
+
+|"key" |\<key\> |[Shift]+\<key\> |[AltGr]+\<key\> |[Shift]+[AltGr]+\<key\> |
+|--- |-- |-- |-- |-- |
+|AB09 |. |: |… |÷ |
+
+
 ### numlock *but desktop*
 
 1)	/etc/kbd/config   # 'kbd' package for Text Konsole - ex (Debian9)
