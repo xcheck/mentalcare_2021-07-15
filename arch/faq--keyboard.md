@@ -1,4 +1,6 @@
-### keyboard map
+# keyboard map
+
+### X11 rather than Wayland
 
 $ grep U2026 /usr/share/X11/xkb/symbols/de   # (Debian9)
 
@@ -13,23 +15,22 @@ _**[AltGr]+[.] ^ShortCut … ^aka hellip**_
 |AB09 |. |: |… |÷ |
 
 
-### numlock *but desktop*
+### numlock special
 
-1)	/etc/kbd/config   # 'kbd' package for Text Konsole - ex (Debian9)
+_**but desktop**_
+
+/etc/kbd/config   # 'kbd' package for Text Konsole - ex (Debian9)
 
 	# Turn on numlock by default
 	LEDS=+num
 
 
----
-### numlock *desktop* // app Keyboard alternative
-
-_**gsettings**_
+_**gsettings**_   # owned by GNOME
 
     gsettings list-recursively | fgrep lock
 
 
-_**: Cinnamon**_
+_**: Cinnamon**_   # settings app Keyboard
 
     /org/cinnamon/settings-daemon/peripherals/keyboard/numlock-state		'on'  
     /org/cinnamon/settings-daemon/peripherals/keyboard/remember-numlock-state	wahr  
