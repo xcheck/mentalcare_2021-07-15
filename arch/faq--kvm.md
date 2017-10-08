@@ -1,5 +1,18 @@
 # KVM kernel-based virtual machine
 
+### requirements
+
+_**kernel-based modul kvm**_
+
+$ lsmod | grep kvm   # (Debian9)
+
+´´´
+kvm_intel             192512  0
+kvm                   589824  1 kvm_intel
+irqbypass              16384  1 kvm
+´´´
+
+
 ### kvm server
 
 qemu-kvm   # `exec qemu-system-x86_64 -enable-kvm "$@"`
@@ -15,30 +28,18 @@ apt install spice-client-gtk
 apt install spice-vdagent
 
 
-_**kernel-based modul kvm   # requirements**_
-
-$ lsmod | grep kvm   # (Debian9)
-
-´´´
-kvm_intel             192512  0
-kvm                   589824  1 kvm_intel
-irqbypass              16384  1 kvm
-´´´
-
-
 _**groupmod**_
 
 /etc/group   # add user
 
 ```
 pi:x:1000:libvirt-qemu
-	libvirt:x:128:pi
-	libvirt-qemu:x:64055:libvirt-qemu,pi
+libvirt:x:128:pi
+libvirt-qemu:x:64055:libvirt-qemu,pi
 ```
 
 
-
-### audio w/ not-pa-but.spice
+### audio w/o-pa but.spice
 
 +	spice requirement: host input audio device (figure HDMI/DP dues input) pegel independent
 	USB audio device or any LINE-IN plug -- spice quick and dirty ,vnc otherwise
