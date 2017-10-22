@@ -17,11 +17,16 @@ Number  Start         End           Size          Type     File system  Flags
  3      11811160064B  15931539455B  4120379392B   primary
 ```
 
-**/boot/cmdline.txt _« root=/dev/mmcblk0p2_**
 ```
 parted help resizepart NUM END
 ```
+
 ```
 e2fsck -fv /dev/sdX2
 resize2fs -p /dev/sdX2
+```
+
+**/boot/cmdline.txt**
+```
+root=/dev/mmcblk0p2
 ```
