@@ -2,6 +2,8 @@
 
 ### Raspbian blank on 16G
 
+Default login: [pi / raspberry](https://downloads.raspberrypi.org/raspbian/images/)
+
 **µSD Card l ^only partitioning**
  > ```
 (parted) print                                                            
