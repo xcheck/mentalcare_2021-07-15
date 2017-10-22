@@ -10,7 +10,7 @@ Disk /dev/sde: 15931539456B
 Sector size (logical/physical): 512B/512B
 Partition Table: msdos
 Disk Flags: 
-⋮
+…
 Number  Start         End           Size          Type     File system  Flags
  1      4194304B      48033279B     43838976B     primary  fat32        lba
  2      48234496B     11811160063B  11762925568B  primary  ext4
