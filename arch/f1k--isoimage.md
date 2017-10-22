@@ -9,7 +9,7 @@ unzip -p 2017-09-07-raspbian-stretch.zip | sudo dd of=/dev/sdX bs=4M status=prog
 
 
 ### Error scan the image on the SD card
-dd if=/dev/sdd of=from-sd-card.img bs=1M count=1500 conv=fsync status=progress
-truncate from-sd-card.img --reference ubuntu-17.10-desktop-amd64.iso
-diff -s from-sd-card.img ubuntu-17.10-desktop-amd64.iso
+dd if=/dev/sdd of=from-sd-card.img bs=1M count=1500 conv=fsync status=progress  
+truncate from-sd-card.img --reference ubuntu-17.10-desktop-amd64.iso  
+diff -s from-sd-card.img ubuntu-17.10-desktop-amd64.iso  
 sync
