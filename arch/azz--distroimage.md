@@ -1,4 +1,4 @@
-# Linux ^®oller Annoyances-by-Design
+# Linux ^®oller — Annoyances-by-Design
 
 ### Iso image validation
 
