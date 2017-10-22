@@ -3,7 +3,7 @@
 ### Raspbian blank on 16G
 
 **µSD Card l ^only partitioning**
-```
+ > ```
 (parted) print                                                            
 Model: Generic- USB3.0 CRW -SD (scsi)
 Disk /dev/sde: 15931539456B
