@@ -7,12 +7,12 @@
 sha1sum -c 2017-09-07-raspbian-stretch.zip.sha1
 ```
 
-##### Write a zipped image to the SD card
+##### Write a zipped image to the SD card w/ `dd`
 ```
-unzip -p 2017-09-07-raspbian-stretch.zip | sudo dd of=/dev/sdX bs=4M status=progress conv=fsync
+unzip -p 2017-09-07-raspbian-stretch.zip | sudo dd of=/dev/sdX bs=4M conv=fsync status=progress
 ```
 
-##### Error scan the image on the SD card
+##### Error scan the image on the SD card w/ `rsync`
 > ```
 sudo dd if=/dev/sdX of=from-sd-card.img bs=1M count=5200 conv=fsync status=progress
 sudo truncate from-sd-card.img --reference ubuntu-17.10-desktop-amd64.iso
