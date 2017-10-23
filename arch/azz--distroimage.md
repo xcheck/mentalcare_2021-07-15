@@ -7,7 +7,7 @@
 sha1sum -c 2017-09-07-raspbian-stretch.zip.sha1
 ```
 
-##### Write a zipped image to the SD card w/ `dd` w/o conv=fsync
+##### Write a zipped image to the SD card w/ `dd` err ^ound `…conv=fsync`
 ```
 unzip -p 2017-09-07-raspbian-stretch.zip | sudo dd of=/dev/sdX bs=4M oflag=direct status=progress
 ```
