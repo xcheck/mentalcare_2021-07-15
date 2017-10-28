@@ -69,15 +69,14 @@ proc            /proc           proc    defaults          0       0
 
 #### user management
 
-|drop default \<user\> |hereby directory ^/etc/skel/ [pimp](#bash_aliases) |  
+|[pimp](#bash_aliases) default \<user\> |hereby directory ^/etc/skel/ |  
 | :--- | :--- |  
 |`adduser` |/etc/adduser.conf |
 | |/etc/passwd |
-|`groupmod` |[initScript]() |
+|`groupmod` |initScript |
 | |/etc/group |
 
-…  
-**initScript draft — …check pi placement then append ,`whoami`**
+**initScript — todo …check pi placement then append ,`whoami`**
 ```
 sed -e "s/:pi.*$/&,`whoami`/g" /etc/group-
 
@@ -87,6 +86,13 @@ if ! fgrep -q ${DEST_USER} ${ETC_GROUP}; then
     sed -e "s/:pi.*$/&,${DEST_USER}/g" ${ETC_GROUP}
 fi
 ```
+
+#### ~/.config/user_dir.dirs vs. /etc/xdg
+
+|english |deutsch |
+| :--: | :--: |
+|~~Desktop~~ |Poster |
+|Public |~~Öffentlich~~ |
 
 #### ~/.bash_aliases
 > **~/.bashrc**
