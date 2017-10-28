@@ -1,4 +1,5 @@
 # requirements for KDE Applications
-## language pack
+### language pack…
 
-`kde-i10l-de` _« (Debian9)_
+`kde-icons-mono`  
+`kde-l10n-de` _« (Debian9)_
