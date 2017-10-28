@@ -1,4 +1,11 @@
 # keyboard map
+### key config settings
+```
+/etc/default/keyboard
+```
+```
+/etc/default/locale
+```
 
 ### X11 rather than Wayland
 
