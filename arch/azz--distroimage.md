@@ -57,7 +57,11 @@ root=/dev/mmcblk0p2
 ```
 
 **/etc/skel/**
-paste .bash_aliases
+
+paste [.bash_aliases][shell-bashAliases]
+
+
+[shell-bashAliases]: #bash_aliases
 
 
 ##### ~/.bash_aliases
