@@ -67,18 +67,25 @@ proc            /proc           proc    defaults          0       0
 #   use  dphys-swapfile swap[on|off]  for that
 ```
 
-#### adduser … groupmod
-**/etc/skel/**
+#### user management
 
-paste [.bash_aliases][shell-bashAliases]
+|drop default \<user\> |hereby directory ^/etc/skel/ [pimp](#bash_aliases) |  
+| :--- | :--- |  
+|`adduser` |/etc/adduser.conf |
+| |/etc/passwd |
+|`groupmod` |[initScript]() |
+| |/etc/group |
 
-
-[shell-bashAliases]: #bash_aliases
-
-
-**initScript draft**
+…  
+**initScript draft — …check pi placement then append ,`whoami`**
 ```
-if ! cat /etc/group | grep "$USER"; then sed -i "s gfhgfjkhg"
+sed -e "s/:pi.*$/&,`whoami`/g" /etc/group-
+
+DEST_USER=`whoami`
+ETC_GROUP="/etc/group-"
+if ! fgrep -q ${DEST_USER} ${ETC_GROUP}; then
+    sed -e "s/:pi.*$/&,${DEST_USER}/g" ${ETC_GROUP}
+fi
 ```
 
 #### ~/.bash_aliases
