@@ -1,16 +1,16 @@
 # Linux ^®oller — Annoyances-by-Design
 ### Iso image validation
-##### …run the sha1sum program to check against the value in the checksum file
+#### …run the sha1sum program to check against the value in the checksum file
 ```
 sha1sum -c 2017-09-07-raspbian-stretch.zip.sha1
 ```
 
-##### Write a zipped image to the SD card w/ `dd` err ^ound ~~`…conv=fsync`~~
+#### Write a zipped image to the SD card w/ `dd` err ^ound ~~`…conv=fsync`~~
 ```
 unzip -p 2017-09-07-raspbian-stretch.zip | sudo dd of=/dev/sdX bs=4M oflag=direct status=progress
 ```
 
-##### Error scan the image on the SD card w/ `rsync`
+#### Error scan the image on the SD card w/ `rsync`
 > ```
 sudo dd if=/dev/sdX of=from-sd-card.img bs=1M count=5200 oflag=direct status=progress
 sudo truncate from-sd-card.img --reference ubuntu-17.10-desktop-amd64.iso
@@ -24,7 +24,7 @@ sudo rsync -av --progress ubuntu-17.10-desktop-amd64.iso /dev/sdX
 
 
 ### Linux install respin
-##### Raspbian blank on 16G
+#### Raspbian blank on 16G
 Default login: [pi / raspberry](https://downloads.raspberrypi.org/raspbian/images/)
 
 **µSD Card l ^only partitioning**
@@ -56,6 +56,18 @@ resize2fs -p /dev/sdX2
 root=/dev/mmcblk0p2
 ```
 
+**/etc/fstab**
+```
+proc            /proc           proc    defaults          0       0
+/dev/mmcblk0p1  /boot           vfat    defaults          0       2
+#PARTUUID=bfed2868-01  /boot           vfat    defaults          0       2
+/dev/mmcblk0p2  /               ext4    defaults,noatime  0       1
+#PARTUUID=bfed2868-02  /               ext4    defaults,noatime  0       1
+# a swapfile is not a swap partition, no line here
+#   use  dphys-swapfile swap[on|off]  for that
+```
+
+#### adduser … groupmod
 **/etc/skel/**
 
 paste [.bash_aliases][shell-bashAliases]
@@ -64,7 +76,12 @@ paste [.bash_aliases][shell-bashAliases]
 [shell-bashAliases]: #bash_aliases
 
 
-##### ~/.bash_aliases
+**initScript draft**
+```
+if ! cat /etc/group | grep "$USER"; then sed -i "s gfhgfjkhg"
+```
+
+#### ~/.bash_aliases
 > **~/.bashrc**
 > ```
 …
