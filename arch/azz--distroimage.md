@@ -1,7 +1,5 @@
 # Linux ^®oller — Annoyances-by-Design
-
 ### Iso image validation
-
 ##### …run the sha1sum program to check against the value in the checksum file
 ```
 sha1sum -c 2017-09-07-raspbian-stretch.zip.sha1
@@ -24,10 +22,9 @@ sync
 sudo rsync -av --progress ubuntu-17.10-desktop-amd64.iso /dev/sdX
 ```
 
+
 ### Linux install respin
-
 ##### Raspbian blank on 16G
-
 Default login: [pi / raspberry](https://downloads.raspberrypi.org/raspbian/images/)
 
 **µSD Card l ^only partitioning**
@@ -57,4 +54,26 @@ resize2fs -p /dev/sdX2
 **/boot/cmdline.txt**
 ```
 root=/dev/mmcblk0p2
+```
+
+**/etc/skel/**
+paste .bash_aliases
+
+
+##### ~/.bash_aliases
+```
+# Alias definitions.
+# You may want to put all your additions into a separate file like
+# ~/.bash_aliases, instead of adding them here directly.
+# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+
+# colored GCC warnings and errors
+#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+
+# some more ls aliases
+alias ll='ls -AlF'
+alias la='ls -alF'
+alias l='ls -lF'
+
+alias py='/usr/bin/env python3'
 ```
