@@ -144,3 +144,11 @@ alias l='ls -lF'
 
 alias py='/usr/bin/env python3'
 ```
+
+### Open List
+```
+chroot
+
+calibre
+kde-l10n-de digikam
+```
