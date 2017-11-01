@@ -1,12 +1,10 @@
-# sddm display manager configuration
-
-* man sddm
-* https://github.com/sddm/sddm
+# sddm — simple desktop display manager
+[LiNK ∷ https://github.com/sddm/sddm](https://github.com/sddm/sddm) _« man sddm_
 
 
-/etc/sddm/ ???  
-/etc/sddm.conf ¼ (¬Debian9)  
-/etc/init/sddm.conf - sddm display manager configuration
+* /etc/sddm/… _« :interrobang:_
+* /etc/sddm.conf _« (¬Debian9)_
+* /etc/init/sddm.conf _« sddm display manager configuration_
 ```
 53	Numlock=on
 13	#EnableAvatars=true   # ~/.face.icon rather than ~/.face
@@ -17,12 +15,12 @@
 52	    sleep 2
 ```
 
-/etc/init.d/sddm
+* /etc/init.d/sddm
 ```
 26	DEFAULT_DISPLAY_MANAGER_FILE=/etc/X11/default-display-manager
 ```
 
-/etc/X11/default-display-manager
+* /etc/X11/default-display-manager
 ```
 26	/usr/bin/sddm
 ```
