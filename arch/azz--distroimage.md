@@ -174,16 +174,15 @@ aplay -L | grep -i 'sysdefault'
 sudo lsmod | grep - bmc2835
 sudo modprobe [option] snd_bmc2835 [index=…]
 ```
-
-
 ```
 vcgencmd get-config [str|int]
 sudo vcdbg reloc
 ```
 
+
 * tvservice -m (CEA|DMT)
 * tvservice -n _« current device\_name_
-* tvservice -s _« current state_  
+* tvservice -s _« current state_
 ```
 tvservice -d edit.dat; edidparser edid.dat > edid.txt
 ```
