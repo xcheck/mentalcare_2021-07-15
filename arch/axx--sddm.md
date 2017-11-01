@@ -8,7 +8,7 @@
 ```
 53	Numlock=on
 13	#EnableAvatars=true   # ~/.face.icon rather than ~/.face
-53	User=uwe
+53	User=<user_login>
 13	#Session=
 …
 23	post-start script
