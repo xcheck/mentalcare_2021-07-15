@@ -183,7 +183,7 @@ sudo vcdbg reloc
 
 * tvservice -m (CEA|DMT)
 * tvservice -n _« current device\_name_
-* tvservice -s _« current state_
+* tvservice -s _« current state_  
 ```
 tvservice -d edit.dat; edidparser edid.dat > edid.txt
 ```
