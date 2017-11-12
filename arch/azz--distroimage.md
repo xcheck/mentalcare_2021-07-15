@@ -1,4 +1,11 @@
 # Linux ^®oller — Annoyances-by-Design
+CROW ^scroll
+
+[ROPA ∷ Raspbian Stretch Respin](#raspbian-blank-on-16g-linux-install-respin)
+[ROPA ∷ vc4-rapberry-pi-3](#vc4-rapberry-pi-3)
+[ROPA ∷ Debian9 Stretch — vivo](#debian9-stretch-vivo)
+[ROPA ∷ Open List](#open-list)
+
 ### Iso image validation
 #### …run the sha1sum program to check against the value in the checksum file
 ```
@@ -23,8 +30,7 @@ sudo rsync -av --progress ubuntu-17.10-desktop-amd64.iso /dev/sdX
 ```
 
 
-### Linux install respin
-#### Raspbian blank on 16G
+## Raspbian blank on 16G — Linux install respin
 Default login: [pi / raspberry](https://downloads.raspberrypi.org/raspbian/images/)
 
 **µSD Card l ^only partitioning**
@@ -145,31 +151,8 @@ alias l='ls -lF'
 alias py='/usr/bin/env python3'
 ```
 
-### Open List
-```
-chroot
 
-calibre
-kde-l10n-de digikam
-```
-
-
-# ALSA — advanced linux audio system
-* raspbian
-```
-/opt/vc/src/hello_pi/hello_video/text.h264
-```
-
-* alsactl alsamixer amixer
-```
-/etc/asound.conf
-```
-```
-aplay -l
-aplay -L | grep -i 'sysdefault'
-```
-
-# VC4 — Rapberry Pi 3 
+### VC4 — Rapberry Pi 3 
 ```
 sudo lsmod | grep - bmc2835
 sudo modprobe [option] snd_bmc2835 [index=…]
@@ -187,4 +170,40 @@ sudo vcdbg reloc
 * EDID _« config.txt_
 ```
 tvservice -d edit.dat; edidparser edid.dat > edid.txt
+```
+
+
+### ALSA — advanced linux audio system
+* raspbian
+```
+/opt/vc/src/hello_pi/hello_video/text.h264
+```
+
+* alsactl alsamixer amixer
+```
+/etc/asound.conf
+```
+```
+aplay -l
+aplay -L | grep -i 'sysdefault'
+```
+
+## Debian9 Stretch vivo
+```
+ui install
+° ¬LVM either or Network ¡w/o firmware! ↲ ↵
+° firmware just cope /pool/f/firmaware-free/firmware-linux-free.deb ~/.
+
+vivobook
+vgvivobook-system … 8MB … "Vivo System"
+vgvivobook-home … 22452MB … "Vivo Home"
+```
+
+
+# Open List
+```
+chroot
+
+calibre
+kde-l10n-de digikam
 ```
