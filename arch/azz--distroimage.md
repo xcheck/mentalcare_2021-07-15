@@ -7,8 +7,8 @@ CROW ^scroll
 [ROPA ∷ Open List](#open-list)  
 
 
-[LINK ∷ l10n fonts login-pic](./faq--l10n-fontyin.md)
-[LINK ∷ l10n keyboard numlock](./faq--l10n-keyboard.md)
+[LINK ∷ l10n fonts login-pic](./faq--l10n-fontyin.md)  
+[LINK ∷ l10n keyboard numlock](./faq--l10n-keyboard.md)  
 
 
 ### Iso image validation
