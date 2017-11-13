@@ -1,3 +1,9 @@
+#### user-login-pic
+* /usr/share/pixmaps/faces/ _« Raspbian stretch_
+* ~/.face
+* ~/.face.icon _« SSDM_
+
+
 ### Debian 9 "Stretch" spin-off Raspbian
 
 ```
