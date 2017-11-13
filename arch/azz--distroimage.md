@@ -1,10 +1,15 @@
 # Linux ^®oller — Annoyances-by-Design
 CROW ^scroll
 
-[ROPA ∷ Raspbian Stretch Respin](#raspbian-blank-on-16g-linux-install-respin)
-[ROPA ∷ vc4-rapberry-pi-3](#vc4-rapberry-pi-3)
-[ROPA ∷ Debian9 Stretch — vivo](#debian9-stretch-vivo)
-[ROPA ∷ Open List](#open-list)
+[ROPA ∷ Raspbian Stretch Respin](#raspbian-blank-on-16g-linux-install-respin)  
+[ROPA ∷ vc4-rapberry-pi-3](#vc4-rapberry-pi-3)  
+[ROPA ∷ Debian9 Stretch — vivo](#debian9-stretch-vivo)  
+[ROPA ∷ Open List](#open-list)  
+
+
+[LINK ∷ l10n fonts login-pic](./faq--l10n-fontyin.md)
+[LINK ∷ l10n keyboard numlock](./faq--l10n-keyboard.md)
+
 
 ### Iso image validation
 #### …run the sha1sum program to check against the value in the checksum file
@@ -82,7 +87,7 @@ proc            /proc           proc    defaults          0       0
 |`groupmod` |initScript |
 | |/etc/group |
 
-**initScript — todo …check pi placement then append ,`whoami`**
+**initScript ^todo — …check pi placement then append ,`whoami`**
 ```
 sed -e "s/:pi.*$/&,`whoami`/g" /etc/group-
 
