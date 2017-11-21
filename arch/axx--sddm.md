@@ -3,7 +3,7 @@
 
 
 * /etc/sddm/… _« :interrobang:_
-* /etc/sddm.conf _« (¬Debian9)_
+* /etc/sddm.conf _« (Debian9) w/ cinnamon.desktop … plasma.desktop …_
 ```
  1  [Autologin]
  2  Relogin=false
