@@ -13,10 +13,10 @@
 
 * /etc/init/sddm.conf _« sddm display manager configuration_
 ```
-11> #Numlock=on  
->   #EnableAvatars=true « ~/.face.icon but not ~/.face  
->   #User=  
->   #Session=  
+11> #Numlock=on
+>   #EnableAvatars=true « ~/.face.icon
+>   #User=
+>   #Session=
 ```
 ```
 46  post-start script
