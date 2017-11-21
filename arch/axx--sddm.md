@@ -7,7 +7,7 @@
 ```
  1  [Autologin]
  2  Relogin=false
- 3  Session=cinnamon.desktop
+ 3  Session=plasma.desktop
  4  User=<login>
 ```
 
