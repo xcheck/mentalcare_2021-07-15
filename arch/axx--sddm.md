@@ -35,9 +35,7 @@
 
 
 #### Desktop selection → drop down list
-* usr/share/xsession/kodi.desktop
-> show/hide
-
+* usr/share/xsession/kodi.desktop _« show/hide_
 ```
 …
 ```
