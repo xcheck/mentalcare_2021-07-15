@@ -32,3 +32,12 @@
 ```
  1	/usr/bin/sddm
 ```
+
+
+#### Desktop selection → drop down list
+* usr/share/xsession/kodi.desktop
+> show/hide
+
+```
+…
+```
