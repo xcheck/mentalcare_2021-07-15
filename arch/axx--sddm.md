@@ -35,6 +35,6 @@
 
 * /usr/share/xsessions/kodi.desktop _« desktop selection drop down list ← show/hide_
 ```
- 1 [Desktop Entry]
- 2 NoDisplay=true
+ 1  [Desktop Entry]
+>   NoDisplay=true
 ```
