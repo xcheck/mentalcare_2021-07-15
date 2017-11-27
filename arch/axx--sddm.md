@@ -33,7 +33,7 @@
  1	/usr/bin/sddm
 ```
 
-* usr/share/xsession/kodi.desktop _« desktop selection drop down list ← show/hide_
+* /usr/share/xsessions/kodi.desktop _« desktop selection drop down list ← show/hide_
 ```
  1 [Desktop Entry]
  2 NoDisplay=true
