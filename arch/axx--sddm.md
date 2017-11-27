@@ -5,10 +5,10 @@
 * /etc/sddm/… _« :interrobang:_
 * /etc/sddm.conf _« (Debian9) w/ cinnamon.desktop … plasma.desktop …_
 ```
- 1  [Autologin]
- 2  Relogin=false
- 3  Session=plasma.desktop
- 4  User=<login>
+¯1  [Autologin]
+¯2  Relogin=false
+¯3  Session=plasma.desktop
+¯4  User=<login>
 ```
 
 * /etc/init/sddm.conf _« sddm display manager configuration_
@@ -30,11 +30,11 @@
 
 * /etc/X11/default-display-manager
 ```
- 1	/usr/bin/sddm
+¯1	/usr/bin/sddm
 ```
 
 * /usr/share/xsessions/kodi.desktop _« desktop selection drop down list ← show/hide_
 ```
- 1  [Desktop Entry]
+¯1  [Desktop Entry]
 >   NoDisplay=true
 ```
