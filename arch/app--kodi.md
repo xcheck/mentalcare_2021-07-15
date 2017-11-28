@@ -6,7 +6,7 @@
 
 #### DRM Kodi-Addons
 - [ ] google Widevine [ ^^ct ^2017-19-128 ](https://ct.de/y7ve)
-- [ ] Amazon VOD oder …
+- [ ] Amazon VOD oder … _« up "Overide HDCP status" ^SD ^→\] ^HD_
 - [ ] Netflix und Sandmann79s
 
 
