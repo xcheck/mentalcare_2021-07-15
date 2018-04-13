@@ -1,7 +1,9 @@
-# Skype ^https://www.skype.com/go/getskype-linux-beta-dynamic
+# Skype
 
-[J] libqt4 Paket installieren  
-[J] libQtWebKit4 Paket installieren
+* [x] libqt4 _« Paket erforderlich_  
+* [x] libQtWebKit4 _« Paket erforderlich_  
+
+www.skype.com/go/getskype-linux-beta-dynamic
 
 ```
     # tar -jxvf skype-4.2.0.13.tar.bz2
@@ -16,11 +18,9 @@
     # mv skype.conf /usr/local/etc/dbus-1/system.d/ # Verzeichnis ggf. vorher erstellen
     # mv skype /usr/local/bin/
     # mv skype.desktop /usr/local/share/applications/ # Verzeichnis ggf. vorher erstellen
-
-    # vim /usr/local/share/applications/skype.desktop
 ```
 
-…folgende Zeile anpassen:
+/usr/local/share/applications/skype.desktop _« …folgende Zeile anpassen_
 
 ```
     Icon=/usr/local/share/skype/icons/SkypeBlue_96x96.png
