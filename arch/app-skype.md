@@ -20,7 +20,7 @@
     # vim /usr/local/share/applications/skype.desktop
 ```
 
-    …folgende Zeile anpassen:
+…folgende Zeile anpassen:
 
 ```
     Icon=/usr/local/share/skype/icons/SkypeBlue_96x96.png
