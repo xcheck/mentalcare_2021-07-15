@@ -98,7 +98,7 @@ if ! fgrep -q ${DEST_USER} ${ETC_GROUP}; then
 fi
 ```
 
-#### ~/.config/user_dir.dirs vs. /etc/xdg
+#### ~/.config/user_dir.dirs vs. /etc/xdg/user-dirs.defaults
 
 |english |deutsch |
 | :--: | :--: |
