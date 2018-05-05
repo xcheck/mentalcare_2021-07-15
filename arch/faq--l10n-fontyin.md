@@ -7,7 +7,7 @@
 ### Debian 9 "Stretch" spin-off Raspbian
 
 ```
-kde-l10n-de libreoffice-l10n-de libreoffice-help-de (libreoffice-style-galaxy) geany-plugin-spellcheck [firefox-esr-l10n-de]
+kde-l10n-de libreoffice-l10n-de libreoffice-help-de (libreoffice-style-galaxy) geany-plugin-spellcheck [firefox-esr-l10n-de] [chromium-l10n]
 enchant (aspell-de) hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
 fonts-crosextra-caladea
 fonts-crosextra-carlito
