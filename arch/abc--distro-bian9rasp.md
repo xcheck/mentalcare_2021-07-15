@@ -98,7 +98,11 @@ if ! fgrep -q ${DEST_USER} ${ETC_GROUP}; then
 fi
 ```
 
-#### ~/.config/user_dir.dirs vs. /etc/xdg/user-dirs.defaults
+#### ~/.config/user_dir.dirs supersedes w/ success match icons
+
+> /etc/xdg/user-dirs.defaults
+
+some config avail within app raspi-config
 
 |english |deutsch |
 | :--: | :--: |
