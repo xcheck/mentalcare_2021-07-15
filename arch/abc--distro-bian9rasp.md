@@ -100,6 +100,8 @@ fi
 
 #### ~/.config/user_dir.dirs supersedes user-directories w/ success match icons
 
+language config in ~/.config/user_dir.locale
+
 > /etc/xdg/user-dirs.defaults
 
 some config avail within app raspi-config
