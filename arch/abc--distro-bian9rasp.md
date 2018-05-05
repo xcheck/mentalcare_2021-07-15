@@ -104,7 +104,7 @@ language config in ~/.config/user_dir.locale
 
 > /etc/xdg/user-dirs.defaults
 
-some config avail within app raspi-config
+sudo update-locale fired via app raspi-config
 
 |english |deutsch |
 | :--: | :--: |
