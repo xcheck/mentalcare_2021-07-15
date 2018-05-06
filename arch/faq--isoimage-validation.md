@@ -28,8 +28,6 @@ sudo rsync -av --progress ubuntu-17.10-desktop-amd64.iso /dev/sdX
 
 # tweak Raspbian partitioning — respin
 
-Default login: [pi / raspberry](https://downloads.raspberrypi.org/raspbian/images/)
-
 **µSD Card l ^only partitioning on 16G**
 
  > ```
