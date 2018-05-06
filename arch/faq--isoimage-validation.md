@@ -52,3 +52,25 @@ parted help resizepart NUM END
 e2fsck -fv /dev/sdX2
 resize2fs -p /dev/sdX2
 ```
+
+
+# boot from usb mass storage device
+
+**/boot/cmdline.txt**
+
+```
+root=/dev/mmcblk0p2
+```
+
+**/etc/fstab**
+
+```
+proc            /proc           proc    defaults          0       0
+/dev/mmcblk0p1  /boot           vfat    defaults          0       2
+#PARTUUID=bfed2868-01  /boot           vfat    defaults          0       2
+/dev/mmcblk0p2  /               ext4    defaults,noatime  0       1
+#PARTUUID=bfed2868-02  /               ext4    defaults,noatime  0       1
+# a swapfile is not a swap partition, no line here
+#   use  dphys-swapfile swap[on|off]  for that
+```
+
