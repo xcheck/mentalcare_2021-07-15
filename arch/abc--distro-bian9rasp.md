@@ -20,50 +20,12 @@ CROW ^scroll
 | \[ctrl\]+\[alt\]+\[T\] | start app terminal |
 
 
-## Raspbian blank on 16G — Linux install respin
-Default login: [pi / raspberry](https://downloads.raspberrypi.org/raspbian/images/)
+### Default login
 
-**µSD Card l ^only partitioning**
- > ```
-(parted) print                                                            
-Model: Generic- USB3.0 CRW -SD (scsi)
-Disk /dev/sde: 15931539456B
-Sector size (logical/physical): 512B/512B
-Partition Table: msdos
-Disk Flags: 
-…
-Number  Start         End           Size          Type     File system  Flags
- 1      4194304B      48033279B     43838976B     primary  fat32        lba
- 2      48234496B     11811160063B  11762925568B  primary  ext4
- 3      11811160064B  15931539455B  4120379392B   primary
-```
+[ pi / raspberry ](https://downloads.raspberrypi.org/raspbian/images/)
 
-```
-parted help resizepart NUM END
-```
 
-```
-e2fsck -fv /dev/sdX2
-resize2fs -p /dev/sdX2
-```
-
-**/boot/cmdline.txt**
-```
-root=/dev/mmcblk0p2
-```
-
-**/etc/fstab**
-```
-proc            /proc           proc    defaults          0       0
-/dev/mmcblk0p1  /boot           vfat    defaults          0       2
-#PARTUUID=bfed2868-01  /boot           vfat    defaults          0       2
-/dev/mmcblk0p2  /               ext4    defaults,noatime  0       1
-#PARTUUID=bfed2868-02  /               ext4    defaults,noatime  0       1
-# a swapfile is not a swap partition, no line here
-#   use  dphys-swapfile swap[on|off]  for that
-```
-
-#### user management
+### user management
 
 |[pimp](#bash_aliases) default \<user\> |hereby directory ^/etc/skel/ |  
 | :--- | :--- |  
