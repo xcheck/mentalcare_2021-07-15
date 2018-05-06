@@ -11,6 +11,15 @@ CROW ^scroll
 [LINK ∷ l10n keyboard numlock](./faq--l10n-keyboard.md)  
 
 
+### keyboard shortcuts
+
+| hotkeys | function |
+| :--- | :--- |
+| \[super\] | dektop menu |
+| \[alt\]+\[space\] | app menu |
+| \[ctrl\]+\[alt\]+\[T\] | start app terminal |
+
+
 ### Iso image validation
 #### …run the sha1sum program to check against the value in the checksum file
 ```
@@ -209,7 +218,17 @@ vivobook
 vgvivobook-system … 8MB … "Vivo System"
 vgvivobook-home … 22452MB … "Vivo Home"
 ```
+### l10n – localisation pakets
 
+```
+kde-l10n-de kde-icons-mono libreoffice-l10n-de libreoffice-help-de ?geany-plugin-spellcheck? chromium-l10n
+enchant hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
+fonts-crosextra-caladea
+fonts-crosextra-carlito
+fonts-mathjax
+fonts-wqy-microhei
+ttf-mscorefonts-installer
+```
 
 # Open List
 ```
@@ -217,4 +236,6 @@ chroot
 
 calibre
 kde-l10n-de digikam
+
+
 ```
