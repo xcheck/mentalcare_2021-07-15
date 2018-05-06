@@ -107,11 +107,12 @@ if ! fgrep -q ${DEST_USER} ${ETC_GROUP}; then
 fi
 ```
 
-#### ~/.config/user_dir.dirs supersedes user-directories w/ success match icons
+### directory names, match directory icons
 
-language config in ~/.config/user_dir.locale
+> /etc/xdg/user-dirs.defaults … user-dirs.locale
 
-> /etc/xdg/user-dirs.defaults
+~/.config/user_dir.dirs « supersedes above  
+~/.config/user_dir.locale « language config
 
 sudo update-locale fired via app raspi-config
 
@@ -218,7 +219,7 @@ vivobook
 vgvivobook-system … 8MB … "Vivo System"
 vgvivobook-home … 22452MB … "Vivo Home"
 ```
-### l10n – localisation pakets
+### l10n – localisation (pakets)
 
 ```
 kde-l10n-de kde-icons-mono libreoffice-l10n-de libreoffice-help-de ?geany-plugin-spellcheck? chromium-l10n
