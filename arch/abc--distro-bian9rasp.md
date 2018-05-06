@@ -238,5 +238,6 @@ chroot
 calibre
 kde-l10n-de digikam
 
+panel-clock: %R'%S
 
 ```
