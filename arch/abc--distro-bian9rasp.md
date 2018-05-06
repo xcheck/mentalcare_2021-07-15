@@ -160,13 +160,8 @@ vgvivobook-home … 22452MB … "Vivo Home"
 ### l10n – localisation (pakets)
 
 ```
-kde-l10n-de kde-icons-mono libreoffice-l10n-de libreoffice-help-de ?geany-plugin-spellcheck? chromium-l10n
-enchant hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
-fonts-crosextra-caladea
-fonts-crosextra-carlito
-fonts-mathjax
-fonts-wqy-microhei
-ttf-mscorefonts-installer
+kde-l10n-de kde-icons-mono libreoffice-l10n-de libreoffice-help-de geany-plugin-spellcheck chromium-l10n
+enchant \[aspell-de\] hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
 ```
 
 # Open List
