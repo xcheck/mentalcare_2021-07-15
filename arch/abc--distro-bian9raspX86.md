@@ -25,6 +25,13 @@ CROW ^scroll
 | \[ctrl\]+\[alt\]+\[T\] | start app terminal |
 
 
+### l10n – localisation (pakets)
+
+```
+kde-l10n-de kde-icons-mono libreoffice-l10n-de libreoffice-help-de geany-plugin-spellcheck chromium-l10n
+enchant \[aspell-de\] hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
+```
+
 :chains:
 
 ### user management
@@ -44,9 +51,12 @@ CROW ^scroll
 [ audio video words to ](./raw--distro-raspberrypi-audiovideo.md)
 
 
-:keyboard:
+:football:
 
-## Debian9 Stretch vivo
+# Asus VivoBook E203HA
+
+### LVM Debian9 Stretch
+
 ```
 ui install
 ° ¬LVM either or Network ¡w/o firmware! ↲ ↵
@@ -56,12 +66,9 @@ vivobook
 vgvivobook-system … 8MB … "Vivo System"
 vgvivobook-home … 22452MB … "Vivo Home"
 ```
-### l10n – localisation (pakets)
 
-```
-kde-l10n-de kde-icons-mono libreoffice-l10n-de libreoffice-help-de geany-plugin-spellcheck chromium-l10n
-enchant \[aspell-de\] hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
-```
+
+:soccer:
 
 # Open List
 ```
