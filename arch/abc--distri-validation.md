@@ -28,7 +28,25 @@ sudo rsync -av --progress ubuntu-17.10-desktop-amd64.iso /dev/sdX
 
 :chains:
 
-# tweak Raspbian partitioning — respin
+# tweak Raspbian — respin
+
+### draft autoscript
+
+**initScript ^todo — …check pi placement then append ,`whoami`**
+```
+sed -e "s/:pi.*$/&,`whoami`/g" /etc/group-
+
+DEST_USER=`whoami`
+ETC_GROUP="/etc/group-"
+if ! fgrep -q ${DEST_USER} ${ETC_GROUP}; then
+    sed -e "s/:pi.*$/&,${DEST_USER}/g" ${ETC_GROUP}
+fi
+```
+
+
+:chains:
+
+# wear levelling – keep trim space µSD side
 
 **µSD Card l ^only partitioning on 16G**
 
@@ -45,11 +63,6 @@ Number  Start         End           Size          Type     File system  Flags
  2      48234496B     11811160063B  11762925568B  primary  ext4
  3      11811160064B  15931539455B  4120379392B   primary
 ```
-
-
-:chains:
-
-# wear levelling – keep trim space µSD side
 
 ```
 parted help resizepart NUM END
