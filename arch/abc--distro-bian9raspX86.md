@@ -11,6 +11,11 @@ CROW ^scroll
 [LINK ∷ l10n keyboard numlock](./faq--l10n-keyboard.md)  
 
 
+### Default login
+
+[ pi / raspberry ](https://downloads.raspberrypi.org/raspbian/images/)
+
+
 ### keyboard shortcuts
 
 | hotkeys | function |
@@ -20,12 +25,11 @@ CROW ^scroll
 | \[ctrl\]+\[alt\]+\[T\] | start app terminal |
 
 
-### Default login
+:chains:
 
-[ pi / raspberry ](https://downloads.raspberrypi.org/raspbian/images/)
+# user management
 
-
-### user management
+### user initialisation
 
 |[pimp](#bash_aliases) default \<user\> |hereby directory ^/etc/skel/ |  
 | :--- | :--- |  
@@ -34,16 +38,6 @@ CROW ^scroll
 |`groupmod` |initScript |
 | |/etc/group |
 
-**initScript ^todo — …check pi placement then append ,`whoami`**
-```
-sed -e "s/:pi.*$/&,`whoami`/g" /etc/group-
-
-DEST_USER=`whoami`
-ETC_GROUP="/etc/group-"
-if ! fgrep -q ${DEST_USER} ${ETC_GROUP}; then
-    sed -e "s/:pi.*$/&,${DEST_USER}/g" ${ETC_GROUP}
-fi
-```
 
 ### directory names, match directory icons
 
@@ -59,57 +53,13 @@ sudo update-locale fired via app raspi-config
 |~~Desktop~~ |Poster |
 |Public |~~Öffentlich~~ |
 
-#### ~/.bash_aliases
-> **~/.bashrc**
-> ```
-…
-# enable color support of ls and also add handy aliases
-if [ -x /usr/bin/dircolors ]; then
-    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
-    alias ls='ls --color=auto'
-    #alias dir='dir --color=auto'
-    #alias vdir='vdir --color=auto'
-…
-    alias grep='grep --color=auto'
-    alias fgrep='fgrep --color=auto'
-    alias egrep='egrep --color=auto'
-fi
-…
-# colored GCC warnings and errors
-#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
-…
-# some more ls aliases
-#alias ll='ls -l'
-#alias la='ls -A'
-#alias l='ls -CF'
-…
-# Alias definitions.
-# You may want to put all your additions into a separate file like
-# ~/.bash_aliases, instead of adding them here directly.
-# See /usr/share/doc/bash-doc/examples in the bash-doc package.
-…
-if [ -f ~/.bash_aliases ]; then
-    . ~/.bash_aliases
-fi
-```
 
-```
-# Alias definitions.
-# You may want to put all your additions into a separate file like
-# ~/.bash_aliases, instead of adding them here directly.
-# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+### ~/.bash_aliases
 
-# colored GCC warnings and errors
-#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+[ ls aliases ](./raw--config-bash.md)
 
-# some more ls aliases
-alias ll='ls -AlF'
-alias la='ls -alF'
-alias l='ls -lF'
 
-alias py='/usr/bin/env python3'
-```
-
+:chains:
 
 ### VC4 — Rapberry Pi 3 
 ```
