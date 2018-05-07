@@ -41,7 +41,7 @@ CROW ^scroll
 
 ### Rapberry Pi 3
 
-[ audio video ](./raw--distro-raspberrypi-audiovideo.md)
+[ audio video words to ](./raw--distro-raspberrypi-audiovideo.md)
 
 
 :keyboard:
