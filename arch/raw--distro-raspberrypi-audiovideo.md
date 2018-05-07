@@ -16,6 +16,44 @@ aplay -l
 aplay -L | grep -i 'sysdefault'
 ```
 
+### swap stereo audio channels
+
+```
+#
+# ~/.asoundrc
+# this supersedes /etc/asound.conf
+#
+
+
+# list available sound cards by executing aplay -Ll
+# card 0: ALSA [bcm2835 ALSA], device 0: bcm2835 ALSA [bcm2835 ALSA]
+# card 0: ALSA [bcm2835 ALSA], device 1: bcm2835 ALSA [bcm2835 IEC958/HDMI]
+
+
+# PCM: Pulse-code modulation
+# devices for recording or playing digitized sound samples
+
+pcm_slave.raspi_composite.pcm "hw:ALSA,0"
+pcm_slave.raspi_hdmi.pcm "hw:ALSA,1"
+
+pcm.!default { # this swaps the audio channels
+type route
+slave raspi_hdmi
+ttable.0.1 1
+ttable.1.0 1
+}
+
+
+# CTL (left unchanged with original configuration)
+# devices that allow manipulating the internal mixer and routing of the card
+
+ctl.!default {
+type hw
+card 0
+}
+```
+
+
 :chains:
 
 # Video
