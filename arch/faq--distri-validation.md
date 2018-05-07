@@ -26,6 +26,8 @@ sudo rsync -av --progress ubuntu-17.10-desktop-amd64.iso /dev/sdX
 ```
 
 
+:chains:
+
 # tweak Raspbian partitioning — respin
 
 **µSD Card l ^only partitioning on 16G**
@@ -44,6 +46,11 @@ Number  Start         End           Size          Type     File system  Flags
  3      11811160064B  15931539455B  4120379392B   primary
 ```
 
+
+:chains:
+
+# wear levelling – keep trim space µSD side
+
 ```
 parted help resizepart NUM END
 ```
@@ -53,6 +60,8 @@ e2fsck -fv /dev/sdX2
 resize2fs -p /dev/sdX2
 ```
 
+
+:chains:
 
 # boot from usb mass storage device
 
