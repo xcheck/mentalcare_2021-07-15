@@ -29,7 +29,7 @@ CROW ^scroll
 
 ```
 kde-l10n-de kde-icons-mono libreoffice-l10n-de libreoffice-help-de geany-plugin-spellcheck chromium-l10n
-enchant \[aspell-de\] hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
+enchant [aspell-de] hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
 ```
 
 :chains:
@@ -71,6 +71,7 @@ vgvivobook-home … 22452MB … "Vivo Home"
 :soccer:
 
 # Open List
+
 ```
 chroot
 
