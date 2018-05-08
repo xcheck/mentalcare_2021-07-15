@@ -1,4 +1,4 @@
-# Annoyances-by-Design – Linux ^®oller — tweak Raspbian (respin draft in work)
+# Annoyances-by-Design – Linux ^®oller – tweak Raspbian (respin draft in work)
 
 ### draft autoscript
 
