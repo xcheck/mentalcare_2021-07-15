@@ -81,7 +81,7 @@ tvservice -d edit.dat; edidparser edid.dat > edid.txt
 
 ### watch monitor sizing detection
 
-**config.txt**
+**/boot/config.txt**
 
 ```
 # For more options and information see
