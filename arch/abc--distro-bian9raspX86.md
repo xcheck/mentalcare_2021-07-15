@@ -36,22 +36,28 @@ enchant [aspell-de] hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/di
 
 ### user management
 
-[ user initialisation on commandline ](./raw--config-userdirectory.md)
+user initialisation on commandline
+
+[ LⁱNK ∷ raw--config-userdirectory :arrow_right_hook: ](./raw--config-userdirectory.md)
 
 
 ### ~/.bash_aliases
 
-[ bash aliases for the list command ](./raw--config-bash.md)
+bash aliases for the list command
+
+[ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md)
 
 
 :chains:
 
 ### Rapberry Pi 3
 
-[ audio video words to ](./raw--distro-raspberrypi-audiovideo.md)
+audio video words to
+
+[ LⁱNK ∷ raw--distro-raspberrypi-audiovideo :arrow_right_hook: ](./raw--distro-raspberrypi-audiovideo.md)
 
 
-:football:
+:soccer:
 
 # Asus VivoBook E203HA
 
@@ -68,7 +74,7 @@ vgvivobook-home … 22452MB … "Vivo Home"
 ```
 
 
-:soccer:
+:football:
 
 # Open List
 
