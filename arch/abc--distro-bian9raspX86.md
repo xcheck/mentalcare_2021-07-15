@@ -38,14 +38,14 @@ enchant [aspell-de] hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/di
 
 user initialisation on commandline
 
-[ LⁱNK ∷ raw--config-userdirectory :arrow_right_hook: ](./raw--config-userdirectory.md)
+[ LⁱNK ∷ raw--config-userdirectory :arrow_right_hook: ](./raw--config-userdirectory.md) _« full story_
 
 
 ### ~/.bash_aliases
 
 bash aliases for the list command
 
-[ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md)
+[ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md) _« full story_
 
 
 :chains:
@@ -54,7 +54,7 @@ bash aliases for the list command
 
 audio video words to
 
-[ LⁱNK ∷ raw--distro-raspberrypi-audiovideo :arrow_right_hook: ](./raw--distro-raspberrypi-audiovideo.md)
+[ LⁱNK ∷ raw--distro-raspberrypi-audiovideo :arrow_right_hook: ](./raw--distro-raspberrypi-audiovideo.md) _« full story_
 
 
 :soccer:
