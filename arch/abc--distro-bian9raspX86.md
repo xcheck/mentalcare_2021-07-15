@@ -63,6 +63,8 @@ audio video words to
 
 ### LVM Debian9 Stretch
 
+**ASUS VivoBook E12 E203N**
+
 ```
 ui install
 ° ¬LVM either or Network ¡w/o firmware! ↲ ↵
