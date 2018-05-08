@@ -54,7 +54,7 @@ bash aliases for the list command
 
 audio video words to
 
-[ LⁱNK ∷ raw--raspberrypi-audiovideo :arrow_right_hook: ](./raw--distro-raspberrypi-audiovideo.md) _« full story_
+[ LⁱNK ∷ raw--raspberrypi-audiovideo :arrow_right_hook: ](./raw--raspberrypi-audiovideo.md) _« full story_
 
 
 :soccer:
