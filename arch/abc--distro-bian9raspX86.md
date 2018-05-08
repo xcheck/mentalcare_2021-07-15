@@ -1,4 +1,4 @@
-# Linux ^®oller — Annoyances-by-Design
+# Understatement-of-Performance — Linux ^®oller
 CROW ^scroll
 
 [ROPA ∷ Raspbian Stretch Respin](#raspbian-blank-on-16g-linux-install-respin)  
@@ -54,7 +54,7 @@ bash aliases for the list command
 
 audio video words to
 
-[ LⁱNK ∷ raw--distro-raspberrypi-audiovideo :arrow_right_hook: ](./raw--distro-raspberrypi-audiovideo.md) _« full story_
+[ LⁱNK ∷ raw--raspberrypi-audiovideo :arrow_right_hook: ](./raw--distro-raspberrypi-audiovideo.md) _« full story_
 
 
 :soccer:
