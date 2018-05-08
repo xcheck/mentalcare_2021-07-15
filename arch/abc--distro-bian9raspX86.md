@@ -66,7 +66,7 @@ audio video words to
 **ASUS VivoBook E12 E203N**
 
 ```
-ui install « from devian dvd image #4
+ui install « from debian dvd image #4
 ° ¬LVM either or Network ¡w/o firmware! ↲ ↵
 ° firmware just cope /pool/f/firmaware-free/firmware-linux-free.deb ~/.
 
