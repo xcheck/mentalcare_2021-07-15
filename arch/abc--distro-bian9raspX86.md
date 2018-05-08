@@ -59,7 +59,7 @@ audio video words to
 
 :soccer:
 
-# Asus VivoBook E203HA
+# Asus VivoBook E203N
 
 ### LVM Debian9 Stretch
 
