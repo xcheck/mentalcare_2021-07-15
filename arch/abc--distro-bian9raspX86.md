@@ -34,7 +34,7 @@ enchant [aspell-de] hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/di
 
 :chains:
 
-### user management
+### user management and localisation
 
 user initialisation on commandline
 
