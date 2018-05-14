@@ -48,9 +48,16 @@ bash aliases for the list command
 [ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md) _« full story_
 
 
+:chains:
+
 ### calDAV-Workaround Kalender
 
 enter your calDAV calendar in Evolution to enable it in gnome-calendar inclusively
+
+
+### Druckeinstellungen
+
+install pakets cups system-config-printer
 
 
 :chains:
