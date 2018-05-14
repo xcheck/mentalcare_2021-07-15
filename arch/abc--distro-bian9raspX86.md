@@ -50,7 +50,7 @@ bash aliases for the list command
 
 ### calDAV-Workaround Kalender
 
-enter the calDAV calendar in Evolution to enable it in gnome-calendar inclusively
+enter your calDAV calendar in Evolution to enable it in gnome-calendar inclusively
 
 
 :chains:
