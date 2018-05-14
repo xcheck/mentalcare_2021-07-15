@@ -48,13 +48,18 @@ bash aliases for the list command
 [ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md) _« full story_
 
 
+### calDAV-Workaround Kalender
+
+enter the calDAV calendar in Evolution to enable it in gnome-calendar inclusively
+
+
 :chains:
 
 ### Rapberry Pi 3
 
 audio video words to
 
-[ LⁱNK ∷ raw--raspberrypi-audiovideo :arrow_right_hook: ](./raw--raspberrypi-audiovideo.md) _« full story_
+[ LⁱNK ∷ dev--raspberrypi-audiovideo :arrow_right_hook: ](./dev--raspberrypi-audiovideo.md) _« full story_
 
 
 :soccer:
