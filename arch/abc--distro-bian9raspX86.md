@@ -48,6 +48,11 @@ bash aliases for the list command
 [ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md) _« full story_
 
 
+### trim flash drive
+
+/etc/fstab « missing /etc/cron.weekly/* supposes a discard
+
+
 :chains:
 
 ### calDAV-Workaround for Kalender
