@@ -71,7 +71,7 @@ install pakets cups system-config-printer
 
 audio video words to
 
-[ LⁱNK ∷ dev--raspberrypi-audiovideo :arrow_right_hook: ](./dev--raspberrypi-audiovideo.md) _« full story_
+[ LⁱNK ∷ vic--raspberrypi-audiovideo :arrow_right_hook: ](./vic--raspberrypi-audiovideo.md) _« full story_
 
 
 :soccer:
