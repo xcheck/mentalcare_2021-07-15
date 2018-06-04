@@ -60,6 +60,8 @@ card 0
 
 ### VC4 — Rapberry Pi 3 
 
+[ VIDEO OPTIONS IN CONFIG.TXT ](https://www.raspberrypi.org/documentation/configuration/config-txt/video.md)
+
 ```
 sudo lsmod | grep - bmc2835
 sudo modprobe [option] snd_bmc2835 [index=…]
