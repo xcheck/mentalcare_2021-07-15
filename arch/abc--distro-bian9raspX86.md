@@ -1,10 +1,8 @@
 # Understatement-of-Performance — Linux ^®oller
 CROW ^scroll
 
-[ROPA ∷ Raspbian Stretch Respin](#raspbian-blank-on-16g-linux-install-respin)  
-[ROPA ∷ vc4-rapberry-pi-3](#vc4-rapberry-pi-3)  
-[ROPA ∷ Debian9 Stretch — vivo](#debian9-stretch-vivo)  
-[ROPA ∷ Open List](#open-list)  
+[ ROPA ∷ change locale, add user ](#user-management-and-localisation)  
+[ ROPA ∷ Druckeinstellungen ](#Druckeinstellungen)  
 
 
 [LINK ∷ l10n fonts login-pic](./faq--l10n-fontyin.md)  
