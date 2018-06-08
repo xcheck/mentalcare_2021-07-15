@@ -2,7 +2,7 @@
 CROW ^scroll
 
 [ ROPA ∷ change locale, add user ](#user-management-and-localisation)  
-[ ROPA ∷ Druckeinstellungen ](#Druckeinstellungen)  
+[ ROPA ∷ Druckeinstellungen ](#druckeinstellungen)  
 
 
 [LINK ∷ l10n fonts login-pic](./faq--l10n-fontyin.md)  
