@@ -2,8 +2,10 @@
 
 ### ~/.bash_aliases
 
+
 > **~/.bashrc**
-> ```
+
+```
 …
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
@@ -34,6 +36,9 @@ if [ -f ~/.bash_aliases ]; then
     . ~/.bash_aliases
 fi
 ```
+
+
+> **~/.bashrc_aliases**
 
 ```
 # Alias definitions.
