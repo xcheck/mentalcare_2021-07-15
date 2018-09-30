@@ -62,6 +62,8 @@ enter your calDAV calendar in Evolution to enable it in gnome-calendar inclusive
 
 install pakets cups system-config-printer
 
+chmod -gG lpadmin pi
+
 
 :chains:
 
