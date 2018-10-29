@@ -25,10 +25,9 @@ CROW ^scroll
 
 ### l10n – localisation (pakets)
 
-```
-kde-l10n-de kde-icons-mono libreoffice-l10n-de libreoffice-help-de geany-plugin-spellcheck chromium-l10n
-enchant [aspell-de] hunspell-de-de hyphen-de mythes-de   # /usr/share/myspell/dicts
-```
+`chromium-l10n` `geany-plugin-spellcheck` `libreoffice-l10n-de` `libreoffice-help-de` `kde-l10n-de` `kde-icons-mono`  
+`enchant` \[aspell-de\] `hunspell-de-de` `hyphen-de` `mythes-de`   # /usr/share/myspell/dicts
+
 
 :chains:
 
@@ -55,14 +54,16 @@ bash aliases for the list command
 
 ### calDAV-Workaround for Kalender
 
-enter your calDAV calendar in Evolution to enable it in gnome-calendar inclusively
+enter your calDAV calendar in Evolution to augment it `gnome-calendar` wide
 
 
 ### Druckeinstellungen
 
-install pakets cups system-config-printer
+install pakets `cups` `system-config-printer`
 
+```
 usermod -gG lpadmin pi
+```
 
 
 :chains:
