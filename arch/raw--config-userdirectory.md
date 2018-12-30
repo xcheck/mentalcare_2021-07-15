@@ -2,12 +2,12 @@
 
 ### user initialisation
 
-|[pimp](#bash_aliases) default \<user\> |hereby directory ^/etc/skel/ |  
-| :--- | :--- |  
-|`adduser` |/etc/adduser.conf |
-| |/etc/passwd |
-|`groupmod` |initScript |
-| |/etc/group |
+| [pimp](./raw--config-bash.md) default \<user\> | hereby directory ^/etc/skel/ |
+| :--- | :--- |
+| `adduser` | /etc/adduser.conf |
+| | /etc/passwd |
+| `groupmod` | initScript |
+| | /etc/group |
 
 
 :chains:
