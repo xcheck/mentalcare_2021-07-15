@@ -5,7 +5,6 @@ CROW ^scroll
 [ ROPA ∷ Druckeinstellungen ](#druckeinstellungen)  
 
 
-[LINK ∷ l10n fonts login-pic](./faq--l10n-fontyin.md)  
 [LINK ∷ l10n keyboard numlock](./faq--l10n-keyboard.md)  
 
 
@@ -25,8 +24,9 @@ CROW ^scroll
 
 ### l10n – localisation (pakets)
 
-`chromium-l10n` `geany-plugin-spellcheck` `libreoffice-l10n-de` `libreoffice-help-de` `kde-l10n-de` `kde-icons-mono`  
-`enchant` \[aspell-de\] `hunspell-de-de` `hyphen-de` `mythes-de`   # /usr/share/myspell/dicts
+l10n fonts login-pic
+
+[LⁱNK ∷ faq--l10n-fontyin.md :arrow_right_hook: ](./faq--l10n-fontyin.md)  
 
 
 :chains:
