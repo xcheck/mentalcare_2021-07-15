@@ -26,7 +26,7 @@ CROW ^scroll
 
 l10n fonts login-pic
 
-[LⁱNK ∷ faq--l10n-fontyin.md :arrow_right_hook: ](./faq--l10n-fontyin.md)  
+[LⁱNK ∷ faq--l10n-fontyin.md :arrow_right_hook: ](./faq--l10n-fontyin.md) _« full story_
 
 
 :chains:
