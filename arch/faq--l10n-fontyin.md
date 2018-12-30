@@ -14,7 +14,7 @@ fonts-mathjax fonts-wqy-microhei
 gnome-keyring   # requisite w/ evolution
 ```
 
-#### quote: liberation fonts
+#### ttf-liberation dropped by fonts-liberation
 
 >>>
 For an example of well-hinted fonts I personally 
