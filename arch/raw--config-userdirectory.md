@@ -23,7 +23,8 @@
 
 sudo update-locale fired via app raspi-config
 
-|english |deutsch |
+| english | deutsch |
 | :--: | :--: |
-|~~Desktop~~ |Poster |
-|Public |~~Öffentlich~~ |
+| ~~Desktop~~ | Poster |
+| Public | ~~Öffentlich~~ |
+| ~~Templates~~ | Vorlagen |
