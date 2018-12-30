@@ -23,7 +23,8 @@ socket://SEC30CDA7A77B34:9100
 
 ### scanner — fix (mint 19.1)
 
-cd /usr/lib/x86_64-linux-gnu/sane/  
+cd /usr/lib/x86_64-linux-gnu/sane/
+
 sudo ln -s ../../sane/libsane-smfp.so.1.0.1 libsane-smfp.so.1.0.1 \  
 && ln -s libsane-smfp.so.1.0.1 libsane-smfp.so.1 \  
 && ln -s libsane-smfp.so.1 libsane-smfp.so  
