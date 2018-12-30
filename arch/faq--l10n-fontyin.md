@@ -4,7 +4,7 @@
 * ~/.face.icon _« SDDM_
 
 
-### Debian 9 "Stretch" spin-off Raspbian
+## Debian 9 "Stretch" spin-off Raspbian
 
 ```
 kde-l10n-de libreoffice-l10n-de libreoffice-help-de (libreoffice-style-galaxy) geany-plugin-spellcheck [firefox-esr-l10n-de] [chromium-l10n]
@@ -14,7 +14,7 @@ fonts-mathjax fonts-wqy-microhei
 gnome-keyring   # requisite w/ evolution
 ```
 
-#### quote window
+#### quote: liberation fonts
 
 >>>
 For an example of well-hinted fonts I personally 
@@ -23,18 +23,19 @@ class hinting the fonts had, which is why debian has both.
 >>>
 
 
-|cmd |conf |rel  
-|---|--|--  
-| localectl [list-locales¦set-locale] | /etc/locale.conf | Systemd  
-| locale | /etc/default/locale |  
+#### command-line
 
-
-### Windows Fonts
-
-|windows path|linux path  
-|---|--  
-|%SYTEMROOT%\Fonts|~/.local/share/fonts/  
-||/usr/local/share/fonts/  
-
+| cmd | conf | rel
+| :--- | :--- | :---
+| localectl [list-locales¦set-locale] | /etc/locale.conf | Systemd
+| locale | /etc/default/locale |
 
 > sudo fc-cache -f
+
+
+## Windows Fonts
+
+| windows path | linux path
+| :--- | :---
+| %SYTEMROOT%\Fonts | /usr/local/share/fonts/
+| | ~/.local/share/fonts/
