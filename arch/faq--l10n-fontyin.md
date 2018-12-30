@@ -1,10 +1,10 @@
-#### user-login-pic
+### user-login-pic
 * /usr/share/pixmaps/faces/ _« Raspbian stretch_
 * ~/.face _« Cinnamon_
 * ~/.face.icon _« SDDM_
 
 
-## Debian 9 "Stretch" spin-off Raspbian
+# Debian 9 "Stretch" spin-off Raspbian
 
 ```
 kde-l10n-de libreoffice-l10n-de libreoffice-help-de (libreoffice-style-galaxy) geany-plugin-spellcheck [firefox-esr-l10n-de] [chromium-l10n]
@@ -14,7 +14,7 @@ fonts-mathjax fonts-wqy-microhei
 gnome-keyring   # requisite w/ evolution
 ```
 
-#### ttf-liberation dropped by fonts-liberation
+### ttf-liberation dropped by fonts-liberation
 
 >>>
 For an example of well-hinted fonts I personally 
@@ -23,7 +23,7 @@ class hinting the fonts had, which is why debian has both.
 >>>
 
 
-#### command-line
+### command-line
 
 | cmd | conf | rel
 | :--- | :--- | :---
@@ -33,7 +33,7 @@ class hinting the fonts had, which is why debian has both.
 > sudo fc-cache -f
 
 
-## Windows Fonts
+# Windows Fonts
 
 | windows path | linux path
 | :--- | :---
