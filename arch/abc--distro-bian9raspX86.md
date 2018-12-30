@@ -5,7 +5,7 @@ CROW ^scroll
 [ ROPA ∷ Druckeinstellungen ](#druckeinstellungen)  
 
 
-[LINK ∷ l10n keyboard numlock](./faq--l10n-keyboard.md)  
+[LⁱNK ∷ l10n keyboard numlock](./faq--l10n-keyboard.md)  
 
 
 ### Default login
@@ -102,7 +102,7 @@ vgvivobook-home … 22452MB … "Vivo Home"
 chroot
 
 calibre
-kde-l10n-de digikam
+kde-l10n-de kde-icons-mono digikam
 
 panel-clock: %R'%S
 
