@@ -6,7 +6,7 @@
 
 # Debian 9 "Stretch" spin-off Raspbian
 
-`kde-l10n-de` `libreoffice-l10n-de` `libreoffice-help-de` \(libreoffice-style-tango\) \(libreoffice-style-galaxy\) `[firefox-esr-l10n-de]` `[chromium-l10n]`  
+`libreoffice-l10n-de` `libreoffice-help-de` \(libreoffice-style-tango\) \(libreoffice-style-galaxy\) `[firefox-esr-l10n-de]` `[chromium-l10n]` `kde-l10n-de` ` kde-icons-mono`  
 `enchant` \(aspell-de\) `hunspell-de-de-frami` `hyphen-de mythes-de` `geany-plugin-spellcheck`   # /usr/share/myspell/dicts  
 `ttf-mscorefonts-installer` `fonts-crosextra-caladea` `fonts-crosextra-carlito` # ttf-liberation dropped by fonts-liberation  
 `fonts-mathjax` `fonts-wqy-microhei`  
