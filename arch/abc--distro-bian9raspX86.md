@@ -102,7 +102,7 @@ vgvivobook-home … 22452MB … "Vivo Home"
 chroot
 
 calibre
-kde-l10n-de kde-icons-mono digikam
+kde-l10n-de kde-icons-mono digikam kdenlive
 
 panel-clock: %R'%S
 
