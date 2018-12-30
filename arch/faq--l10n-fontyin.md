@@ -14,19 +14,19 @@ fonts-mathjax fonts-wqy-microhei
 gnome-keyring   # requisite w/ evolution
 ```
 
+#### quote window
+
+>>>
+For an example of well-hinted fonts I personally 
+recommend the liberation fonts, but only v1, the 2.0 update broke the world 
+class hinting the fonts had, which is why debian has both.
+>>>
+
+
 |cmd |conf |rel  
 |---|--|--  
 | localectl [list-locales¦set-locale] | /etc/locale.conf | Systemd  
 | locale | /etc/default/locale |  
-
-
-#### quote window
-
->
-For an example of well-hinted fonts I personally 
-recommend the liberation fonts, but only v1, the 2.0 update broke the world 
-class hinting the fonts had, which is why debian has both.
->
 
 
 ### Windows Fonts
