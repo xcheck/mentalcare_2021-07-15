@@ -1,11 +1,9 @@
 # Understatement-of-Performance — Linux ^®oller
 CROW ^scroll
 
-[ ROPA ∷ change locale, add user ](#user-management-and-localisation)  
-[ ROPA ∷ Druckeinstellungen ](#druckeinstellungen)  
+[ LiNK ∷ Open List ](#open-list)
 
-
-[LⁱNK ∷ l10n keyboard numlock](./faq--l10n-keyboard.md)  
+[ LⁱNK ∷ l10n keyboard numlock ](./faq--l10n-keyboard.md)
 
 
 ### Default login
