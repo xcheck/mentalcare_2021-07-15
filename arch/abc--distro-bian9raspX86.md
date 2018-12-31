@@ -22,7 +22,7 @@ CROW ^scroll
 
 ### l10n – localisation (pakets)
 
-l10n spellcheck fonts
+l10n fonts spellcheck
 
 [LⁱNK ∷ faq--l10n-fontyin.md :arrow_right_hook: ](./faq--l10n-fontyin.md) _« full story_
 
