@@ -1,4 +1,6 @@
-# …music inside ^better ^sound
+# Linux ^®oller — Annoyances-by-Design ^Debian9 ^Stretch
+
+### …music inside ^better ^sound
 
 don't get too complicated
 
@@ -10,3 +12,11 @@ comprehensively I love the Pixel desktop found Raspbian wise … just slick and 
 
 DEBIAN | B → AN | co w/ BL^AN | verdict free on right  
 DEVUAN | US → AN | deus L^US | passes by name
+
+### .deb Pakage Install from USB as CDROM
+
+plug USB device an execute
+
+```
+sudo mount --bind /media/<user>/<USB Debian Image Number> /media/cdrom
+```
