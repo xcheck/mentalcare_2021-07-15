@@ -22,7 +22,7 @@ CROW ^scroll
 
 ### l10n – localisation (pakets)
 
-l10n fonts login-pic
+l10n spellcheck fonts
 
 [LⁱNK ∷ faq--l10n-fontyin.md :arrow_right_hook: ](./faq--l10n-fontyin.md) _« full story_
 
@@ -31,7 +31,7 @@ l10n fonts login-pic
 
 ### user management and localisation
 
-user initialisation on commandline
+user initialisation and login-pic
 
 [ LⁱNK ∷ raw--config-userdirectory :arrow_right_hook: ](./raw--config-userdirectory.md) _« full story_
 
