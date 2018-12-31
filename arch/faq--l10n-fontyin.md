@@ -1,9 +1,3 @@
-### user-login-pic
-* /usr/share/pixmaps/faces/ _« Raspbian stretch_
-* ~/.face _« Cinnamon_
-* ~/.face.icon _« SDDM_
-
-
 # Debian 9 "Stretch" spin-off Raspbian
 
 `libreoffice-l10n-de` `libreoffice-help-de` \(libreoffice-style-tango\) \(libreoffice-style-galaxy\) `[firefox-esr-l10n-de]` `[chromium-l10n]` `kde-l10n-de` ` kde-icons-mono`  
