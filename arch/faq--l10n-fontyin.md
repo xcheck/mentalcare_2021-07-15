@@ -16,7 +16,7 @@ class hinting the fonts had, which is why debian has both.
 >>>
 
 
-### command-line
+### character set
 
 | cmd | conf | rel
 | :--- | :--- | :---
