@@ -28,3 +28,9 @@ sudo update-locale fired via app raspi-config
 | ~~Desktop~~ | Poster |
 | Public | ~~Öffentlich~~ |
 | ~~Templates~~ | Vorlagen |
+
+
+### user-login-pic
+* /usr/share/pixmaps/faces/ _« Raspbian stretch_
+* ~/.face _« Cinnamon_
+* ~/.face.icon _« SDDM_
