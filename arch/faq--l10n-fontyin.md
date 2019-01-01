@@ -26,6 +26,8 @@ class hinting the fonts had, which is why debian has both.
 > sudo fc-cache -f
 
 
+:chains:
+
 # Windows Fonts
 
 | windows path | linux path
