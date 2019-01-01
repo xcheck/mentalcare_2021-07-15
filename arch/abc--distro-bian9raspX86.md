@@ -30,7 +30,7 @@ l10n keyboard numlock
 [ LⁱNK ∷ faq--l10n-keyboard ](./faq--l10n-keyboard.md)
 
 
-:call_me_hand:
+:call\_me\_hand:
 
 ### basic localisation "l10n"
 
@@ -53,7 +53,7 @@ bash aliases for the list command
 [ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md) _« full story_
 
 
-:call_me_hand_tone1:
+:call\_me\_hand\_tone1:
 
 ### calDAV-Workaround for Kalender
 
@@ -69,14 +69,14 @@ usermod -gG lpadmin pi
 ```
 
 
-:call_me_hand_tone2:
+:call\_me\_hand\_tone2:
 
 ### trim flash drive
 
 /etc/fstab « missing /etc/cron.weekly/* supposes a discard
 
 
-:call_me_hand_tone3:
+:call\_me\_hand\_tone3:
 
 ### Rapberry Pi 3
 
