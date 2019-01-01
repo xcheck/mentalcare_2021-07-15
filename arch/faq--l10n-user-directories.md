@@ -15,7 +15,7 @@
 | english | deutsch | comment |
 | :--: | :--: | :--- |
 | ~~Desktop~~ | Poster | |
-| Public | ~~Öffentlich~~ | |
+| ~~Public~~ | Öffentlich | |
 | Templates | ~~Vorlagen~~ | raspbian9 issue w/ file recognition |
 
 >>>
