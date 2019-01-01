@@ -28,7 +28,7 @@ CROW ^scroll
 
 l10n fonts spellcheck
 
-[LⁱNK ∷ faq--l10n-font-n-spell.md :arrow_right_hook: ](./faq--l10n-font-n-spell.md) _« full story_
+[LⁱNK ∷ faq--l10n-fonts-n-spell.md :arrow_right_hook: ](./faq--l10n-fonts-n-spell.md) _« full story_
 
 
 ### user management and localisation
