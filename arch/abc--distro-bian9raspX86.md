@@ -1,6 +1,6 @@
 # Understatement-of-Performance — Linux ^®oller
 
-Knowledge presumed: [ Linux Mint 17 MATE → ASUS EeePC 1000HE ](https://www.rollator-parcours.com/de/HOWTO/ASUS-Eee-PC-1000HE/Linux-Mint-17-MATE/)
+Knowledge presumed: [ LⁱⁿK ∷ Linux Mint 17 MATE → ASUS Eee PC 1000HE ](https://www.rollator-parcours.com/de/HOWTO/ASUS-Eee-PC-1000HE/Linux-Mint-17-MATE/)
 
 CROW ^scroll
 
@@ -11,7 +11,9 @@ CROW ^scroll
 
 ### Default login
 
-[ pi / raspberry ](https://downloads.raspberrypi.org/raspbian/images/)
+pi / raspberry
+
+[ LⁱⁿK ∷ Raspbian Images ](https://downloads.raspberrypi.org/raspbian/images/)
 
 
 ### keyboard shortcuts
