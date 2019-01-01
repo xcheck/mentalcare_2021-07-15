@@ -1,9 +1,10 @@
 # Understatement-of-Performance — Linux ^®oller
+
+Knowledge presumed: [ Linux Mint 17 MATE → ASUS EeePC 1000HE ](https://www.rollator-parcours.com/de/HOWTO/ASUS-Eee-PC-1000HE/Linux-Mint-17-MATE/)
+
 CROW ^scroll
 
 [ LiNK ∷ Open List ](#open-list)
-
-[ LⁱNK ∷ l10n keyboard numlock ](./faq--l10n-keyboard.md)
 
 
 :soccer: :football:
@@ -21,17 +22,22 @@ CROW ^scroll
 | \[alt\]+\[space\] | app menu |
 | \[ctrl\]+\[alt\]+\[T\] | start app terminal |
 
+…  
+l10n keyboard numlock
+
+[ LⁱNK ∷ faq--l10n-keyboard ](./faq--l10n-keyboard.md)
+
 
 :call_me_hand:
 
-### l10n – localisation (pakets)
+### basic localisation "l10n"
 
 l10n fonts spellcheck
 
 [LⁱNK ∷ faq--l10n-fonts-n-spell :arrow_right_hook: ](./faq--l10n-fonts-n-spell.md) _« full story_
 
 
-### user management and localisation
+### user management and l10n
 
 user initialisation and login-pic
 
