@@ -1,4 +1,4 @@
-# user management and localisation l10n
+# user management and localization
 
 ### user initialisation
 
@@ -18,7 +18,7 @@
 | :--: | :--: | :--- |
 | ~~Desktop~~ | Poster | |
 | Public | ~~Öffentlich~~ | |
-| Templates | ~~Vorlagen~~ | raspbian issue w/ file recognition |
+| Templates | ~~Vorlagen~~ | raspbian9 issue w/ file recognition |
 
 >>>
 /etc/xdg/user-dirs.defaults  
