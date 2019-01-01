@@ -6,6 +6,8 @@ CROW ^scroll
 [ LⁱNK ∷ l10n keyboard numlock ](./faq--l10n-keyboard.md)
 
 
+:soccer: :football:
+
 ### Default login
 
 [ pi / raspberry ](https://downloads.raspberrypi.org/raspbian/images/)
@@ -20,20 +22,20 @@ CROW ^scroll
 | \[ctrl\]+\[alt\]+\[T\] | start app terminal |
 
 
+:call_me_hand:
+
 ### l10n – localisation (pakets)
 
 l10n fonts spellcheck
 
-[LⁱNK ∷ faq--l10n-fontyin.md :arrow_right_hook: ](./faq--l10n-fontyin.md) _« full story_
+[LⁱNK ∷ faq--l10n-font-n-spell.md :arrow_right_hook: ](./faq--l10n-font-n-spell.md) _« full story_
 
-
-:chains:
 
 ### user management and localisation
 
 user initialisation and login-pic
 
-[ LⁱNK ∷ raw--config-userdirectory :arrow_right_hook: ](./raw--config-userdirectory.md) _« full story_
+[ LⁱNK ∷ faq--l10n-user-directories :arrow_right_hook: ](./faq--l10n-user-directories.md) _« full story_
 
 
 ### ~/.bash_aliases
@@ -43,12 +45,7 @@ bash aliases for the list command
 [ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md) _« full story_
 
 
-### trim flash drive
-
-/etc/fstab « missing /etc/cron.weekly/* supposes a discard
-
-
-:chains:
+:call_me_hand_tone1:
 
 ### calDAV-Workaround for Kalender
 
@@ -64,7 +61,14 @@ usermod -gG lpadmin pi
 ```
 
 
-:chains:
+:call_me_hand_tone2:
+
+### trim flash drive
+
+/etc/fstab « missing /etc/cron.weekly/* supposes a discard
+
+
+:call_me_hand_tone3:
 
 ### Rapberry Pi 3
 
@@ -73,7 +77,7 @@ audio video words to
 [ LⁱNK ∷ vic--raspberrypi-audiovideo :arrow_right_hook: ](./vic--raspberrypi-audiovideo.md) _« full story_
 
 
-:soccer:
+:chains:
 
 # Asus VivoBook E12 E203N
 
@@ -92,7 +96,7 @@ vgvivobook-home … 22452MB … "Vivo Home"
 ```
 
 
-:football:
+:chains:
 
 # Open List
 
