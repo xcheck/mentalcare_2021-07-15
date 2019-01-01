@@ -13,7 +13,7 @@ CROW ^scroll
 
 pi / raspberry
 
-[ LⁱⁿK ∷ Raspbian Images ](https://downloads.raspberrypi.org/raspbian/images/)
+[ LⁱⁿK ∷ Raspbian Images ](hhttps://downloads.raspberrypi.org/rpd_x86/images/)
 
 
 ### keyboard shortcuts
