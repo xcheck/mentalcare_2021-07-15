@@ -10,8 +10,6 @@
 | | /etc/group |
 
 
-:call\_me\_hand:
-
 ### directory names, icons match
 
 | english | deutsch | comment |
@@ -30,8 +28,6 @@
 
 sudo update-locale fired via app raspi-config
 
-
-:call\_me\_hand\_tone1:
 
 ### user-login-pic
 * /usr/share/pixmaps/faces/ _« Raspbian stretch_
