@@ -1,8 +1,8 @@
-# user management
+# user management and localisation l10n
 
 ### user initialisation
 
-| [pimp](./raw--config-bash.md) default \<user\> | hereby directory ^/etc/skel/ |
+| default \<user\> [ ^pimp ](./raw--config-bash.md) | hereby directory ^/etc/skel/ |
 | :--- | :--- |
 | `adduser` | /etc/adduser.conf |
 | | /etc/passwd |
@@ -10,25 +10,28 @@
 | | /etc/group |
 
 
-:chains:
+:call\_me\_hand:
 
-# localise the user directory
+### directory names, icons match
 
-### directory names, match directory icons
+| english | deutsch | comment |
+| :--: | :--: | :--- |
+| ~~Desktop~~ | Poster | |
+| Public | ~~Öffentlich~~ | |
+| Templates | ~~Vorlagen~~ | raspbian issue w/ file recognition |
 
-> /etc/xdg/user-dirs.defaults … user-dirs.locale
+>>>
+/etc/xdg/user-dirs.defaults  
+/etc/xdg/user-dirs.locale
+>>>
 
 ~/.config/user_dir.dirs « supersedes above  
 ~/.config/user_dir.locale « language config
 
 sudo update-locale fired via app raspi-config
 
-| english | deutsch |
-| :--: | :--: |
-| ~~Desktop~~ | Poster |
-| Public | ~~Öffentlich~~ |
-| ~~Templates~~ | Vorlagen |
 
+:call\_me\_hand\_tone1:
 
 ### user-login-pic
 * /usr/share/pixmaps/faces/ _« Raspbian stretch_
