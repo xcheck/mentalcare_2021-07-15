@@ -13,7 +13,7 @@ CROW ^scroll
 
 pi / raspberry
 
-[ LⁱⁿK ∷ Raspbian Images ](hhttps://downloads.raspberrypi.org/rpd_x86/images/)
+[ LⁱⁿK ∷ Raspbian x86 Images ](hhttps://downloads.raspberrypi.org/rpd_x86/images/)
 
 
 ### keyboard shortcuts
@@ -30,7 +30,7 @@ l10n keyboard numlock
 [ LⁱNK ∷ faq--l10n-keyboard ](./faq--l10n-keyboard.md)
 
 
-:call\_me\_hand:
+:call_me_hand_tone1:
 
 ### basic localisation "l10n"
 
@@ -53,7 +53,7 @@ bash aliases for the list command
 [ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md) _« full story_
 
 
-:call\_me\_hand\_tone1:
+:call_me_hand_tone2:
 
 ### calDAV-Workaround for Kalender
 
@@ -69,14 +69,14 @@ usermod -gG lpadmin pi
 ```
 
 
-:call\_me\_hand\_tone2:
+:call_me_hand_tone3:
 
 ### trim flash drive
 
 /etc/fstab « missing /etc/cron.weekly/* supposes a discard
 
 
-:call\_me\_hand\_tone3:
+:call_me_hand_tone4:
 
 ### Rapberry Pi 3
 
