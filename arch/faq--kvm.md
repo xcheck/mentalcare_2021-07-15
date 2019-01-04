@@ -27,8 +27,8 @@ apt install qemu [qemu-kvm] virt-manager
 ```
 
 
-* _**spice # VM-Video: QXL (2D) new VirtIO (3D) rendering ^ob¬ing**_  
-* _**spice   # guest video screen resizing ^ob¬ing**_
+* _**spice # client (guest?): VM-Video: QXL (2D) new VirtIO (3D) rendering ^ob¬ing**_  
+* _**spice # client (guest!): video screen resizing ^ob¬ing**_
 
 ```
 apt install spice-client-gtk
