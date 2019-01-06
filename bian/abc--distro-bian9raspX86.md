@@ -16,6 +16,9 @@ CROW ^scroll
 
 ### keyboard shortcuts
 
+* best of  
+[ LⁱⁿK ∷  Best Linux Keyboard Shortcuts ](https://www.linux.com/learn/best-linux-keyboard-shortcuts)
+
 | hotkeys | function |
 | :--- | :--- |
 | \[super\] | dektop menu |
