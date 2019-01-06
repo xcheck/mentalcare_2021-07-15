@@ -1,23 +1,23 @@
 # Understatement-of-Performance — Linux ^®oller
 
-Knowledge presumed: [ LⁱⁿK ∷ Linux Mint 17 MATE → ASUS Eee PC 1000HE ](https://www.rollator-parcours.com/de/HOWTO/ASUS-Eee-PC-1000HE/Linux-Mint-17-MATE/)
+Knowledge presumed: [ :arrow_up_small: Linux Mint 17 MATE → ASUS Eee PC 1000HE ](https://www.rollator-parcours.com/de/HOWTO/ASUS-Eee-PC-1000HE/Linux-Mint-17-MATE/)
 
 CROW ^scroll
 
-[ LiNK ∷ Open List ](#open-list)
+[ :leftwards_arrow_with_hook: To-Do Liste ](#to-do-liste)
 
 
 :soccer: :football:
 
 ### Default login
 * pi \/ raspberry  
-[ LⁱⁿK ∷ Raspbian x86 Images ](https://downloads.raspberrypi.org/rpd_x86/images/)
+[ :arrow_up_small: Raspbian x86 Images ](https://downloads.raspberrypi.org/rpd_x86/images/)
 
 
 ### keyboard shortcuts
 
 * best of  
-[ LⁱⁿK ∷  Best Linux Keyboard Shortcuts ](https://www.linux.com/learn/best-linux-keyboard-shortcuts)
+[ :arrow_up_small: Best Linux Keyboard Shortcuts ](https://www.linux.com/learn/best-linux-keyboard-shortcuts)
 
 | hotkeys | function |
 | :--- | :--- |
@@ -27,7 +27,7 @@ CROW ^scroll
 
 …  
 * l10n keyboard map-file numlock  
-[ LⁱNK ∷ faq--l10n-keyboard ](./faq--l10n-keyboard.md)
+[ :arrow_right_hook: faq--l10n-keyboard ](./faq--l10n-keyboard.md) _« full story_
 
 
 :call_me_hand_tone1:
@@ -35,19 +35,19 @@ CROW ^scroll
 ### basic localisation "l10n"
 
 * l10n fonts spellcheck  
-[LⁱNK ∷ faq--l10n-fonts-n-spell :arrow_right_hook: ](./faq--l10n-fonts-n-spell.md) _« full story_
+[ :arrow_right_hook: faq--l10n-fonts-n-spell ](./faq--l10n-fonts-n-spell.md) _« full story_
 
 
 ### user management and l10n
 
 * user initialisation and login-pic  
-[ LⁱNK ∷ faq--l10n-user-directories :arrow_right_hook: ](./faq--l10n-user-directories.md) _« full story_
+[ :arrow_right_hook: faq--l10n-user-directories ](./faq--l10n-user-directories.md) _« full story_
 
 
 ### ~/.bash_aliases
 
 * bash aliases for the list command  
-[ LⁱNK ∷ raw--config-bash :arrow_right_hook: ](./raw--config-bash.md) _« full story_
+[ :arrow_right_hook: raw--config-bash ](./raw--config-bash.md) _« full story_
 
 
 :call_me_hand_tone2:
@@ -78,7 +78,7 @@ usermod -gG lpadmin pi
 ### Rapberry Pi 3
 
 * audio video words to  
-[ LⁱNK ∷ vic--raspberrypi-audiovideo :arrow_right_hook: ](./vic--raspberrypi-audiovideo.md) _« full story_
+[ :arrow_right_hook: vic--raspberrypi-audiovideo ](./vic--raspberrypi-audiovideo.md) _« full story_
 
 
 :chains:
@@ -102,7 +102,7 @@ vgvivobook-home … 22452MB … "Vivo Home"
 
 :chains:
 
-# Open List
+# To-Do Liste
 
 ```
 chroot
