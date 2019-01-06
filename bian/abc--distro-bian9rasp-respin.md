@@ -20,7 +20,8 @@ fi
 
 **µSD Card l ^only partitioning on 16G**
 
- > ```
+>>>
+```
 (parted) print                                                            
 Model: Generic- USB3.0 CRW -SD (scsi)
 Disk /dev/sde: 15931539456B
@@ -33,6 +34,7 @@ Number  Start         End           Size          Type     File system  Flags
  2      48234496B     11811160063B  11762925568B  primary  ext4
  3      11811160064B  15931539455B  4120379392B   primary
 ```
+>>>
 
 ```
 parted help resizepart NUM END
