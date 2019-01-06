@@ -26,7 +26,7 @@ CROW ^scroll
 | \[ctrl\]+\[alt\]+\[T\] | start app terminal |
 
 …  
-* l10n keyboard numlock  
+* l10n keyboard map-file numlock  
 [ LⁱNK ∷ faq--l10n-keyboard ](./faq--l10n-keyboard.md)
 
 
