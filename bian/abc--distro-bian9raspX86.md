@@ -10,13 +10,13 @@ CROW <sup>scroll</sup>
 # Understatement-of-Performance — Linux <sup>&reg;oller</sup>
 ### Default login
 * pi \/ raspberry  
-[ :arrow_up_small: Raspbian x86 Images ](https://downloads.raspberrypi.org/rpd_x86/images/)
+  [ :arrow_up_small: Raspbian x86 Images ](https://downloads.raspberrypi.org/rpd_x86/images/)
 
 
 ### keyboard shortcuts
 
 * best of  
-[ :arrow_up_small: Best Linux Keyboard Shortcuts ](https://www.linux.com/learn/best-linux-keyboard-shortcuts)
+  [ :arrow_up_small: Best Linux Keyboard Shortcuts ](https://www.linux.com/learn/best-linux-keyboard-shortcuts)
 
 | hotkeys | function |
 | :--- | :--- |
@@ -26,7 +26,7 @@ CROW <sup>scroll</sup>
 
 …  
 * l10n keyboard map-file numlock  
-[ :arrow_right_hook: faq--l10n-keyboard ](./faq--l10n-keyboard.md) _« full story_
+  [ :arrow_right_hook: faq--l10n-keyboard ](./faq--l10n-keyboard.md) _« full story_
 
 
 :call_me_hand_tone1:
@@ -34,19 +34,19 @@ CROW <sup>scroll</sup>
 ### basic localisation "l10n"
 
 * l10n fonts spellcheck  
-[ :arrow_right_hook: faq--l10n-fonts-n-spell ](./faq--l10n-fonts-n-spell.md) _« full story_
+  [ :arrow_right_hook: faq--l10n-fonts-n-spell ](./faq--l10n-fonts-n-spell.md) _« full story_
 
 
 ### user management and l10n
 
 * user initialisation and login-pic  
-[ :arrow_right_hook: faq--l10n-user-directories ](./faq--l10n-user-directories.md) _« full story_
+  [ :arrow_right_hook: faq--l10n-user-directories ](./faq--l10n-user-directories.md) _« full story_
 
 
 ### ~/.bash_aliases
 
 * bash aliases for the list command  
-[ :arrow_right_hook: raw--config-bash ](./raw--config-bash.md) _« full story_
+  [ :arrow_right_hook: raw--config-bash ](./raw--config-bash.md) _« full story_
 
 
 :call_me_hand_tone2:
@@ -77,7 +77,7 @@ usermod -gG lpadmin pi
 ### Rapberry Pi 3
 
 * audio video words to  
-[ :arrow_right_hook: vic--raspberrypi-audiovideo ](./vic--raspberrypi-audiovideo.md) _« full story_
+  [ :arrow_right_hook: vic--raspberrypi-audiovideo ](./vic--raspberrypi-audiovideo.md) _« full story_
 
 
 :chains:
