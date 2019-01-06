@@ -1,5 +1,3 @@
-# Understatement-of-Performance — Linux ^®oller
-
 Knowledge presumed: [ :arrow_up_small: Linux Mint 17 MATE → ASUS Eee PC 1000HE ](https://www.rollator-parcours.com/de/HOWTO/ASUS-Eee-PC-1000HE/Linux-Mint-17-MATE/)
 
 CROW ^scroll
@@ -7,8 +5,9 @@ CROW ^scroll
 [ :leftwards_arrow_with_hook: To-Do Liste ](#to-do-liste)
 
 
-:soccer: :football:
+<br>
 
+# Understatement-of-Performance — Linux ^®oller
 ### Default login
 * pi \/ raspberry  
 [ :arrow_up_small: Raspbian x86 Images ](https://downloads.raspberrypi.org/rpd_x86/images/)
