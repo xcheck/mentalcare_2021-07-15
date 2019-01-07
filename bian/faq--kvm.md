@@ -4,7 +4,7 @@
 + **cpu virt <sup>technology</sup> by intel…**
   
   ```
-  cat /etc/os-rlease; dmesg | grep -i virt; egrp '(vmx|svm)'
+  cat /etc/os-release; dmesg | grep -i virt; egrep '^flags.*(vmx|svm)' /proc/cpuinfo
   ```
 
 
@@ -23,7 +23,7 @@
 + **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>**
   
   ```
-  apt install qemu [qemu-kvm] virt-manager
+  apt install [qemu] qemu-kvm [virtinst] virt-manager
   ```
 
 
@@ -35,7 +35,7 @@
   `xserver-xorg-video-qxl`
 
 
-+ **spice # mouse handling, video adaption and resizing** _« guest_  
++ **spice # mouse hand-over, video adaption and resizing** _« guest_  
   `spice-vdagent`
 
 
