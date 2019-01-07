@@ -6,15 +6,13 @@
 <br>
 
 # Understatement-of-Performance — Linux <sup>&reg;oller</sup>
-### Default login
+### Gettin started
 
-+ **pi \/ raspberry**  
++ **pi \/ raspberry** _« default login_  
   [ :arrow_up_small: Raspbian x86 Images ](https://downloads.raspberrypi.org/rpd_x86/images/)
 
 
-### keyboard shortcuts
-
-+ **best of**  
++ **best of keyboard shortcuts**  
   [ :arrow_up_small: Best Linux Keyboard Shortcuts ](https://www.linux.com/learn/best-linux-keyboard-shortcuts)
   
   | hotkeys | function |
@@ -30,21 +28,17 @@
 
 :call_me_hand_tone1:
 
-### basic localisation "l10n"
+### user customization and localisation "l10n"
 
 + **l10n fonts spellcheck**  
   [ :arrow_right_hook: faq--l10n-fonts-n-spell ](./faq--l10n-fonts-n-spell.md) _« full story_
 
 
-### user management and l10n
-
 + **user initialisation and login-pic**  
   [ :arrow_right_hook: faq--l10n-user-directories ](./faq--l10n-user-directories.md) _« full story_
 
 
-### ~/.bash_aliases
-
-+ **bash aliases for the list command**  
++ **~/.bash_aliases** _« bash aliases for the list command et al._  
   [ :arrow_right_hook: raw--config-bash ](./raw--config-bash.md) _« full story_
 
 
