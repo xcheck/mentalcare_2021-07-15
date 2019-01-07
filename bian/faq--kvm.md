@@ -18,7 +18,7 @@
   ```
 
 
-### kvm server, client, guest w\/ spice
+### kvm\/spice server, client, guest
 
 + **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>**
   
@@ -27,16 +27,16 @@
   ```
 
 
-+ **spice # embedding the SPICE display** _« remote\\local client_  
-  `spice-client-gtk`
++ **spice client** _« embedding the SPICE display_  
+  `spice-client-gtk` _« remote "local" client_
 
 
-+ **spice # video device driver QXL \(2D\), newer VirtIO \(3D\) rendering** _« guest <sup>ob¬ing</sup>_  
-  `xserver-xorg-video-qxl`
++ **spice qxl guest drivers** _« video device driver QXL \(2D\), newer VirtIO \(3D\) rendering <sup>ob¬ing</sup>_  
+  `xserver-xorg-video-qxl` _« guest_
 
 
-+ **spice # mouse hand-over, video adaption and resizing** _« guest_  
-  `spice-vdagent`
++ **spice agent** _« mouse hand-over, copy 'n' paste, video adaption and resizing_  
+  `spice-vdagent` _« guest \(optional\)_
 
 
 + **groupmod   # /etc/group** _« add user_
