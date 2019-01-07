@@ -13,7 +13,7 @@
 
 
 + **best of keyboard shortcuts**  
-  [ :arrow_up_small: Best Linux Keyboard Shortcuts ](https://www.linux.com/learn/best-linux-keyboard-shortcuts)  
+  [ :arrow_up_small: Best Linux Keyboard Shortcuts ](https://www.linux.com/learn/best-linux-keyboard-shortcuts)
   
   | hotkeys | function |
   | :--- | :--- |
@@ -51,7 +51,7 @@
 
 ### Druckeinstellungen
 
-+ **install pakets** `cups` `system-config-printer`  
++ **install pakets** `cups` `system-config-printer`
   
   ```
   usermod -gG lpadmin pi
@@ -78,7 +78,7 @@
 # Asus VivoBook E12 E203N
 ### LVM Debian9 Stretch
 
-+ **ASUS VivoBook E12 E203N**  
++ **ASUS VivoBook E12 E203N**
   
   ```
   ui install « from debian dvd image #4 (never the less find #1)
