@@ -30,16 +30,16 @@
 
 ### user customization and localisation "l10n"
 
-+ **l10n fonts spellcheck**  
-  [ :arrow_right_hook: faq--l10n-fonts-n-spell ](./faq--l10n-fonts-n-spell.md) _« full story_
-
-
 + **user management and login-pic**  
   [ :arrow_right_hook: faq--l10n-user-directories ](./faq--l10n-user-directories.md) _« full story_
 
 
 + **~/.bash_aliases** _« bash aliases for the list command et al._  
   [ :arrow_right_hook: raw--config-bash ](./raw--config-bash.md) _« full story_
+
+
++ **l10n fonts spellcheck**  
+  [ :arrow_right_hook: faq--l10n-fonts-n-spell ](./faq--l10n-fonts-n-spell.md) _« full story_
 
 
 :call_me_hand_tone2:
