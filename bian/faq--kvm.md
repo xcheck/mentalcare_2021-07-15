@@ -27,7 +27,7 @@
   ```
 
 
-+ **spice # embedding the SPICE display** _« remote\local client_  
++ **spice # embedding the SPICE display** _« remote\\local client_  
   `spice-client-gtk`
 
 
