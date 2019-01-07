@@ -48,7 +48,14 @@
   ```
 
 
-### audio (no pa but spice)
+### Windows guest
+
++ **VirtIO drivers**  
+  https://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers  
+  https://docs.fedoraproject.org/en-US/quick-docs/creating-windows-virtual-machines-using-virtio-drivers/
+
+
+### audio (no pulseaudio but spice)
 
 + **spice requirement:**  
   host input audio device \(figure HDMI\/DP dues input\) pegel independent  
