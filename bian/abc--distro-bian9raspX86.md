@@ -34,7 +34,7 @@
   [ :arrow_right_hook: faq--l10n-fonts-n-spell ](./faq--l10n-fonts-n-spell.md) _« full story_
 
 
-+ **user initialisation and login-pic**  
++ **user management and login-pic**  
   [ :arrow_right_hook: faq--l10n-user-directories ](./faq--l10n-user-directories.md) _« full story_
 
 
