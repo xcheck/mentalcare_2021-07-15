@@ -1,7 +1,7 @@
 # KVM kernel-based virtual machine
 ### requirements
 
-+ **cpu virt <sup>technology</sup> by intel…**
++ **cpu virt <sup>technology</sup> by intel…**  
   
   ```
   cat /etc/os-rlease; dmesg | grep -i virt; egrp '(vmx|svm)'
@@ -9,7 +9,7 @@
 
 
 + **kernel-based modul kvm**  
-  $ lsmod | grep kvm _« (Debian9)_
+  $ lsmod | grep kvm _« (Debian9)_  
   
   ```
   kvm_intel             192512  0
@@ -20,7 +20,7 @@
 
 ### kvm server
 
-+ **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>**
++ **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>**  
   
   ```
   apt install qemu [qemu-kvm] virt-manager
@@ -28,7 +28,7 @@
 
 
 + **spice # client (remote?)** _« VM-Video: QXL (2D) new VirtIO (3D) rendering <sup>ob¬ing</sup>_  
-+ **spice # client (guest?)** _« video screen resizing <sup>ob¬ing</sup>_
++ **spice # client (guest?)** _« video screen resizing <sup>ob¬ing</sup>_  
   
   ```
   apt install spice-client-gtk
@@ -38,7 +38,7 @@
   ```
 
 
-+ **groupmod   # /etc/group** _« add user_
++ **groupmod   # /etc/group** _« add user_  
   
   ```
   pi:x:1000:libvirt-qemu
