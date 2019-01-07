@@ -17,7 +17,7 @@
   
   | hotkeys | function |
   | :--- | :--- |
-  | \[super\] | dektop menu |
+  | \[meta\] | dektop menu |
   | \[alt\]+\[space\] | app menu |
   | \[ctrl\]+\[alt\]+\[T\] | start app terminal |
   
