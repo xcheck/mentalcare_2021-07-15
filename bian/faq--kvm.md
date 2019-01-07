@@ -23,7 +23,7 @@
 + **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>**
   
   ```
-  apt install [qemu] qemu-kvm [virtinst] virt-manager
+  apt install [qemu] qemu-kvm [libvirt0] [virtinst] virt-manager
   ```
 
 
