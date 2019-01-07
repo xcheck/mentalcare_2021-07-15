@@ -1,6 +1,4 @@
-Knowledge presumed: [ :arrow_up_small: Linux Mint 17 MATE → ASUS Eee PC 1000HE ](https://www.rollator-parcours.com/de/HOWTO/ASUS-Eee-PC-1000HE/Linux-Mint-17-MATE/)
-
-CROW <sup>scroll</sup>
+[ :arrow_up_small: Linux Mint 17 MATE → ASUS Eee PC 1000HE ](https://www.rollator-parcours.com/de/HOWTO/ASUS-Eee-PC-1000HE/Linux-Mint-17-MATE/) _« content knowledge presumed_
 
 [ :leftwards_arrow_with_hook: To-Do Liste ](#to-do-liste)
 
