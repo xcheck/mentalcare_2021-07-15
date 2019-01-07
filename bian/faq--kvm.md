@@ -27,14 +27,16 @@
   ```
 
 
-+ **spice # video device QXL \(2D\), newer VirtIO \(3D\) rendering** _« client \(remote?\) <sup>ob¬ing</sup>_
++ **spice # embedding the SPICE display** _« remote client_
   
   ```
   apt install spice-client-gtk
   ```
 
++ **spice # video device driver QXL \(2D\), newer VirtIO \(3D\) rendering** _« guest <sup>ob¬ing</sup>_
 
-+ **spice # monitor screen resizing** _« client \(guest?\) <sup>ob¬ing</sup>_
+
++ **spice # mouse handling, video adaption and resizing** _« guest_
   
   ```
   apt install spice-vdagent
