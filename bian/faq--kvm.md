@@ -18,7 +18,7 @@
   ```
 
 
-### kvm server
+### kvm server, client, guest w\/ spice
 
 + **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>**
   
