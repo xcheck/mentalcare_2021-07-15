@@ -9,13 +9,14 @@ CROW <sup>scroll</sup>
 
 # Understatement-of-Performance — Linux <sup>&reg;oller</sup>
 ### Default login
-* pi \/ raspberry  
+
++ pi \/ raspberry  
   [ :arrow_up_small: Raspbian x86 Images ](https://downloads.raspberrypi.org/rpd_x86/images/)
 
 
 ### keyboard shortcuts
 
-* best of  
++ best of  
   [ :arrow_up_small: Best Linux Keyboard Shortcuts ](https://www.linux.com/learn/best-linux-keyboard-shortcuts)
 
 | hotkeys | function |
@@ -25,7 +26,7 @@ CROW <sup>scroll</sup>
 | \[ctrl\]+\[alt\]+\[T\] | start app terminal |
 
 …  
-* l10n keyboard map-file numlock  
++ l10n keyboard map-file numlock  
   [ :arrow_right_hook: faq--l10n-keyboard ](./faq--l10n-keyboard.md) _« full story_
 
 
@@ -33,19 +34,19 @@ CROW <sup>scroll</sup>
 
 ### basic localisation "l10n"
 
-* l10n fonts spellcheck  
++ l10n fonts spellcheck  
   [ :arrow_right_hook: faq--l10n-fonts-n-spell ](./faq--l10n-fonts-n-spell.md) _« full story_
 
 
 ### user management and l10n
 
-* user initialisation and login-pic  
++ user initialisation and login-pic  
   [ :arrow_right_hook: faq--l10n-user-directories ](./faq--l10n-user-directories.md) _« full story_
 
 
 ### ~/.bash_aliases
 
-* bash aliases for the list command  
++ bash aliases for the list command  
   [ :arrow_right_hook: raw--config-bash ](./raw--config-bash.md) _« full story_
 
 
@@ -53,12 +54,12 @@ CROW <sup>scroll</sup>
 
 ### calDAV-Workaround for Kalender
 
-* enter your calDAV calendar in Evolution to augment it `gnome-calendar` wide
++ enter your calDAV calendar in Evolution to augment it `gnome-calendar` wide
 
 
 ### Druckeinstellungen
 
-* install pakets `cups` `system-config-printer`  
++ install pakets `cups` `system-config-printer`  
 
 ```
 usermod -gG lpadmin pi
@@ -69,21 +70,20 @@ usermod -gG lpadmin pi
 
 ### trim flash drive
 
-* \/etc\/fstab *« missing \/etc\/cron.weekly\/\* supposes a discard*
++ \/etc\/fstab *« missing* \/etc\/cron.weekly\/\* *supposes a discard*
 
 
 :call_me_hand_tone4:
 
 ### Rapberry Pi 3
 
-* audio video words to  
++ audio video words to  
   [ :arrow_right_hook: vic--raspberrypi-audiovideo ](./vic--raspberrypi-audiovideo.md) _« full story_
 
 
 :chains:
 
 # Asus VivoBook E12 E203N
-
 ### LVM Debian9 Stretch
 
 **ASUS VivoBook E12 E203N**
