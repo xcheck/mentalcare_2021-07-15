@@ -23,7 +23,7 @@
 + **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>** _« (Mint19.1)_
   
   ```
-  apt install ebtables dnsmask qemu \
+  apt install ebtables dnsmasq qemu \
   libosinfo-l10n virt-daemon virt-daemon-system \   # … virt-viewer
   qemu-kvm virt-manager   # … libspice-server1 libvirt0 virtinst
   ```
