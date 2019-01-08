@@ -11,14 +11,14 @@
 ### install
 
 + **script pakage location**  
-  rather
+  - [x] rather
   
   ```
   sudo mkdir -pv /usr/local/src/samsung/  
   sudo mv uld/ /usr/local/src/samsung/
   ```
   
-  than
+  - [ ] than
   
   ```  
   sudo mkdir -pv /opt/samsung/  
