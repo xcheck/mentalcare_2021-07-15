@@ -23,7 +23,7 @@
 + **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>** _« (Mint19.1)_
   
   ```
-  apt install bridge-utils ebtables dnsmasq libosinfo-l10n \
+  sudo apt install bridge-utils ebtables dnsmasq libosinfo-l10n \
   qemu libvirt-daemon-system \
   qemu-kvm virt-manager   # … libvirt0 libspice-server1 virtinst virt-viewer
   ```
