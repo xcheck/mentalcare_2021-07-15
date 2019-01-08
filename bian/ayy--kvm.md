@@ -23,14 +23,14 @@
 + **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>** _« (Mint19.1)_
   
   ```
-  apt install ebtables dnsmasq libosinfo-l10n \
+  apt install bridge-utils ebtables dnsmasq libosinfo-l10n \
   qemu libvirt-daemon-system \
   qemu-kvm virt-manager   # … libvirt0 libspice-server1 virtinst virt-viewer
   ```
 
 
 + **spice client** _« embedding the SPICE display_  
-  `spice-client-gtk` _« remote "local" client_
+  `gir1.2-spiceclientgtk-3.0` `spice-client-gtk` _« remote "local" client_
 
 
 + **spice qxl guest drivers** _« video device driver QXL \(2D\), newer VirtIO \(3D\) rendering <sup>ob¬ing</sup>_  
