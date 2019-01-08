@@ -38,7 +38,7 @@
 
 
 + **spice agent** _« mouse hand-over, copy 'n' paste, video adaption and resizing_  
-  `spice-vdagent` _« guest \(extension\)_
+  `spice-vdagent` _« guest \(extensions\)_
 
 
 + **groupmod   # /etc/group** _« user linux,hu_
