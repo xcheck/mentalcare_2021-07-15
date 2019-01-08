@@ -34,11 +34,11 @@
 
 
 + **spice qxl guest drivers** _« video device driver QXL \(2D\), newer VirtIO \(3D\) rendering <sup>ob¬ing</sup>_  
-  `xserver-xorg-video-qxl` _« guest_
+  `xserver-xorg-video-qxl` _« guest \(performance\)_
 
 
 + **spice agent** _« mouse hand-over, copy 'n' paste, video adaption and resizing_  
-  `spice-vdagent` _« guest \(optional\)_
+  `spice-vdagent` _« guest \(extension\)_
 
 
 + **groupmod   # /etc/group** _« user linux,hu_
