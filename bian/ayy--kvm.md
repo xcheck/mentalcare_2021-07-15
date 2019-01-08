@@ -41,12 +41,14 @@
   `spice-vdagent` _« guest \(optional\)_
 
 
-+ **groupmod   # /etc/group** _« add user_
++ **groupmod   # /etc/group** _« user linux,hu_
   
   ```
-  pi:x:1000:libvirt-qemu
-  libvirt:x:128:pi
-  libvirt-qemu:x:64055:libvirt-qemu,pi
+  kvm:x:129:
+  rdma:x:130:
+  libvirt:x:131:linux,hu
+  libvirt-qemu:x:64055:libvirt-qemu
+  libvirt-dnsmasq:x:132:
   ```
 
 
