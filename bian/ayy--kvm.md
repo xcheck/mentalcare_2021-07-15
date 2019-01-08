@@ -25,7 +25,7 @@
   ```
   apt install ebtables dnsmasq libosinfo-l10n \
   qemu libvirt-daemon-system \
-  qemu-kvm virt-manager   # … \ libvirt0 \ libspice-server1 virtinst virt-viewer
+  qemu-kvm virt-manager   # … libvirt0 libspice-server1 virtinst virt-viewer
   ```
 
 
