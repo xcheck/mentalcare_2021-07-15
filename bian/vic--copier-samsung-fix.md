@@ -1,7 +1,7 @@
 # Samsung Xpress M2885FW
 ### unpack
 
-+ doas root:staff
++ **doas root:staff**
   
   ```
   tar -xzvf uld_V1.00.39_01.17.tar.gz
