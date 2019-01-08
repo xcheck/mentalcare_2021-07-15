@@ -50,7 +50,7 @@
   ```
 
 
-### Windows guest
+### Windows guest extensions
 
 + **VirtIO drivers**  
   [ :arrow_up_small: https://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers ][winguestdrv1]  
