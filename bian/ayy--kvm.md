@@ -8,19 +8,19 @@
   ```
 
 
-+ **kernel-based modul kvm**  
-  $ lsmod | grep kvm _« (Debian9)_
++ **kernel-based modul kvm** _« \(Ubuntu18.04<sup>Mint19.1</sup>\)_  
+  $ lsmod | grep kvm
   
   ```
-  kvm_intel             192512  0
-  kvm                   589824  1 kvm_intel
+  kvm_intel             204800  0
+  kvm                   593920  1 kvm_intel
   irqbypass              16384  1 kvm
   ```
 
 
 ### kvm\/spice server, client, guest
 
-+ **qemu-kvm <sup>exec qemu-system-x86_64 -enable-kvm "$@"</sup>** _« (Mint19.1)_
++ **qemu-kvm** _« \(Ubuntu18.04<sup>Mint19.1</sup>\)_
   
   ```
   sudo apt install bridge-utils ebtables dnsmasq libosinfo-l10n \
