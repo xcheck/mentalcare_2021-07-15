@@ -41,9 +41,11 @@
   `spice-vdagent` _« guest \(extensions\)_
 
 
-+ **groupmod   # /etc/group** _« user linux,hu_
++ **groupmod** _« user linux,hu_  
+  /etc/group
   
   ```
+  …
   kvm:x:129:
   rdma:x:130:
   libvirt:x:131:linux,hu
