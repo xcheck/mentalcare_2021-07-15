@@ -1,5 +1,5 @@
 # r8169 ethernet doesn't work after wake up from suspend
-+ **Ubuntu18.04 Bionic Bug**  
++ **Bionic Bug** _« (Ubuntu18.04<sup>Mint19.1</sup>)_  
   [ :arrow_up_small: https://bugs.launchpad.net/linux/+bug/1752772 ](https://bugs.launchpad.net/linux/+bug/1752772)  
   /etc/systemd/system/fix-r8169.service
   
