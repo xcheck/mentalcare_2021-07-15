@@ -66,7 +66,7 @@
 
 ![winsetup](https://www.rollator-parcours.com/de/HOWTO/KVM/Windows10-für-iTunes/img/Bildschirmfoto_vom_2019-01-10_18-42-58.png)
 
-![winready](https://www.rollator-parcours.com/de/HOWTO/KVM/Windows10-für-iTunes/img/Bildschirmfoto_vom_2019-01-10_19-30-28.png)
+![winready](https://www.rollator-parcours.com/de/HOWTO/KVM/Windows10-für-iTunes/img/Bildschirmfoto_vom_2019-01-10_19-30-28.jpg)
 
 
 ### audio (no pulseaudio but spice)
