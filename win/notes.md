@@ -27,7 +27,8 @@
   -
   msdt.exe		Microsoft Support-Diagnosetool
   -
-  sfc /verifyonly		System File Checker /scannow
+  sfc /verifyonly		System File Checker vgl. /scannow
+  -
   netsh wlan show wirelesscap
   ```
 
@@ -64,6 +65,8 @@
   Product Key:	VK7JG-NPHTM-C97JM-9MPGT-3V66T	Pro-Generic
   ```
 
+
+:chains:
 
 # To-Do Liste
 
