@@ -38,7 +38,7 @@
 
 
 + **ANSI-Escape-Sequenzen in der Windows-Eingabeaufforderung** <sup><sup>ct</sup> 2016-19-150</sup>  
-  https://www.heise.de/ct/ausgabe/2016-19-ANSI-Escape-Sequenzen-in-der-Windows-Eingabeaufforderung-3305785.html
+  https://heise.de/-3305785
   
   C:\Users\All Users\tweakCommandPromptColor.bat
   prompt $E[92m$P$G$E[37m
