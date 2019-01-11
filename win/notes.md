@@ -1,13 +1,13 @@
 # Windows tweaks
 
-+ **"Energiesparplan Festplatte" \(lange Pause vor dem Speichern\)** <sup><sup>ct</sup> 2017-08-152</sup> \/\/ hos@  
-  …erweiterte Energieeinstellungen
-
-
 + **"Compact OS" statt NTFS-Kompression** [ <sup><sup>ct</sup> 2017-09-146</sup> ](https://ct.de/yk9n)  
   
   compact /compactos  
   compact /compactos:always
+
+
++ **"Energiesparplan Festplatte" \(lange Pause vor dem Speichern\)** <sup><sup>ct</sup> 2017-08-152</sup>  
+  …erweiterte Energieeinstellungen
 
 
 + **Hardware-Diagnose** [ <sup><sup>ct</sup> 2016-20-109</sup> ](https://ct.de/yqbx)  
@@ -58,9 +58,11 @@
 
 
 + **PID.txt**  
-  https://www.deskmodder.de/wiki/index.php/Seriennummern_Key_generischer_Schl%C3%BCssel_Windows_10
+  https://www.deskmodder.de/wiki/index.php/Seriennummern_Key_generischer_Schlüssel_Windows_10
   
+  ```
   Product Key:	VK7JG-NPHTM-C97JM-9MPGT-3V66T	Pro-Generic
+  ```
 
 
 # To-Do Liste
