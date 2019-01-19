@@ -1,4 +1,5 @@
-### ¹²³ ¼ Xen
+# ¹²³ ¼ Xen
+### considerations
 
 - Layer Modul kinda hardware-para-abstraction whatever ? …search for accepted name
 - virtual network interfaces /etc
