@@ -81,4 +81,4 @@
 ### Fernzugriff auf Windows 10
 
 + **Remote desktop connection**  
-  remote access with **xrdp** or **FreeRDP** having Desktop-as-a-Service [ <sup><sup>ct</sup> 2019-02-144</sup> ](https://ct.de/yc3h)
+  remote access with **xrdp** or **FreeRDP** establing Desktop-as-a-Service [ <sup><sup>ct</sup> 2019-02-144</sup> ](https://ct.de/yc3h)
