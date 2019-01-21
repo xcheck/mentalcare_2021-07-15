@@ -54,6 +54,15 @@
   ```
 
 
+### audio (no pulseaudio but spice)
+
++ **spice requirement:**  
+  host input audio device \(figure HDMI\/DP dues input\) pegel independent  
+  USB audio device or **any LINE-IN plug** -- spice **quick and dirty** ,vnc otherwise  
+  or ALSA virtual device .. "snd-aloop snd-dummy modprobe" ... \/etc\/modules  
+  or "pacmd load-module module-virtual-source source_name=loop_source uplink_sink=loop_sink"
+
+
 ### Windows guest extensions
 
 + **VirtIO drivers**  
@@ -73,12 +82,3 @@
 
 + **Remote desktop connection**  
   remote access with **xrdp** or **FreeRDP** having Desktop-as-a-Service [ <sup><sup>ct</sup> 2019-02-144</sup> ](https://ct.de/yc3h)
-
-
-### audio (no pulseaudio but spice)
-
-+ **spice requirement:**  
-  host input audio device \(figure HDMI\/DP dues input\) pegel independent  
-  USB audio device or **any LINE-IN plug** -- spice **quick and dirty** ,vnc otherwise  
-  or ALSA virtual device .. "snd-aloop snd-dummy modprobe" ... \/etc\/modules  
-  or "pacmd load-module module-virtual-source source_name=loop_source uplink_sink=loop_sink"
