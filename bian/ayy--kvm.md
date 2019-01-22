@@ -56,7 +56,7 @@
 
 ### audio (no pulseaudio but spice)
 
-+ **spice requirement** _« host input audio device seems volume level independent_  
++ **spice requirement** _« host input audio device seems to be volume level independent_  
   figure if HDMI\/DP does input or just use **any blind LINE-IN plug** if nothing else is connected
   
   _or workaround with ALSA virtual devices .. "snd-aloop snd-dummy modprobe" ... \/etc\/modules  
