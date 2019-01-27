@@ -78,7 +78,7 @@
 ![winready](https://www.rollator-parcours.com/de/HOWTO/KVM/Windows10-für-iTunes/img/Bildschirmfoto_vom_2019-01-10_19-30-28.jpg)
 
 
-### Fernzugriff auf Windows 10
+### Fernzugriff auf Windows 10 Pro et al.
 
 + **Remote desktop connection**  
   remote access with `xrdp` or `freerdp2-x11` establishing Desktop-as-a-Service [ <sup><sup>ct</sup> 2019-02-144</sup> ](https://ct.de/yc3h)
