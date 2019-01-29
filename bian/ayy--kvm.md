@@ -18,7 +18,7 @@
   ```
 
 
-### kvm\/spice server, client, guest
+### kvm/spice server, client, guest
 
 + **qemu-kvm** _« \(Ubuntu18.04<sup>Mint19.1</sup>\)_
   
@@ -42,7 +42,7 @@
 
 
 + **groupmod** _« user linux,hu_  
-  \/etc\/group
+  /etc/group
   
   ```
   …
@@ -57,17 +57,17 @@
 ### audio (no pulseaudio but spice)
 
 + **spice requirement** _« host input audio device seems to be volume level independent_  
-  figure if HDMI\/DP does input or just use **any blind LINE-IN plug** if nothing else is connected
+  figure if HDMI/DP does input or just use **any blind LINE-IN plug** if nothing else is connected
   
-  _or workaround with ALSA virtual devices .. "snd-aloop snd-dummy modprobe" ... \/etc\/modules  
+  _or workaround with ALSA virtual devices .. "snd-aloop snd-dummy modprobe" ... /etc/modules  
   or "pacmd load-module module-virtual-source source\_name=loop\_source uplink\_sink=loop\_sink"_
 
 
 ### Windows guest extensions
 
 + **VirtIO drivers**  
-  [ :arrow_up_small: https:\/\/www.linux-kvm.org\/page\/WindowsGuestDrivers\/Download_Drivers ][winguestdrv1]  
-  [ :arrow_up_small: https:\/\/docs.fedoraproject.org\/en-US\/quick-docs\/creating-windows-virtual-machines-using-virtio-drivers\/ ][winguestdrv2]
+  [ :arrow_up_small: https://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers ][winguestdrv1]  
+  [ :arrow_up_small: https://docs.fedoraproject.org/en-US/quick-docs/creating-windows-virtual-machines-using-virtio-drivers/ ][winguestdrv2]
 
 
 [winguestdrv1]: https://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers
