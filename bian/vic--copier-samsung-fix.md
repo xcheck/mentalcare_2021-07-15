@@ -31,7 +31,8 @@
   `socket://SEC30CDA7A77B34:9100`
 
 
-+ **scanner-fix** _« \(Ubuntu18.04<sup>Mint19.1</sup>\)_
++ **scanner-fix** _« \(Ubuntu18.04<sup>Mint19.1</sup>\)_  
+  [ https:\/\/bugs.launchpad.net\/ubuntu\/+source\/sane-backends\/+bug\/1728012 ](https://bugs.launchpad.net/ubuntu/+source/sane-backends/+bug/1728012)
   
   ```
   cd /usr/lib/x86_64-linux-gnu/sane/
