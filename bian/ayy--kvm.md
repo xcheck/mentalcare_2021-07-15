@@ -66,8 +66,8 @@
 ### Windows guest extensions
 
 + **VirtIO drivers**  
-  [ :arrow_up_small: https://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers ][winguestdrv1]  
-  [ :arrow_up_small: https://docs.fedoraproject.org/en-US/quick-docs/creating-windows-virtual-machines-using-virtio-drivers/ ][winguestdrv2]
+  [ :arrow_up_small: https:\/\/www.linux-kvm.org\/page\/WindowsGuestDrivers\/Download_Drivers ][winguestdrv1]  
+  [ :arrow_up_small: https:\/\/docs.fedoraproject.org\/en-US\/quick-docs\/creating-windows-virtual-machines-using-virtio-drivers\/ ][winguestdrv2]
 
 
 [winguestdrv1]: https://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers
