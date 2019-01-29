@@ -42,7 +42,7 @@
 
 
 + **groupmod** _« user linux,hu_  
-  /etc/group
+  \/etc\/group
   
   ```
   …
