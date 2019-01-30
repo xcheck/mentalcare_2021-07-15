@@ -39,6 +39,6 @@
   ```
   ```
   sudo ln -s ../../sane/libsane-smfp.so.1.0.1 libsane-smfp.so.1.0.1 \  
-  && ln -s libsane-smfp.so.1.0.1 libsane-smfp.so.1 \  
-  && ln -s libsane-smfp.so.1 libsane-smfp.so
+  && sudo ln -s libsane-smfp.so.1.0.1 libsane-smfp.so.1 \  
+  && sudo ln -s libsane-smfp.so.1 libsane-smfp.so
   ```
