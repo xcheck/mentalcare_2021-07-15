@@ -38,7 +38,7 @@
   cd /usr/lib/x86_64-linux-gnu/sane/
   ```
   ```
-  sudo ln -s ../../sane/libsane-smfp.so.1.0.1 libsane-smfp.so.1.0.1 \  
-  && sudo ln -s libsane-smfp.so.1.0.1 libsane-smfp.so.1 \  
+  sudo ln -s ../../sane/libsane-smfp.so.1.0.1 libsane-smfp.so.1.0.1 \
+  && sudo ln -s libsane-smfp.so.1.0.1 libsane-smfp.so.1 \
   && sudo ln -s libsane-smfp.so.1 libsane-smfp.so
   ```
