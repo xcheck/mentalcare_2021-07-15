@@ -14,15 +14,15 @@
   - [x] rather
   
   ```
-  sudo mkdir -pv /usr/local/src/samsung/  
+  sudo mkdir -pv /usr/local/src/samsung/
   sudo mv uld/ /usr/local/src/samsung/
   ```
   
   - [ ] than
   
   ```  
-  sudo mkdir -pv /opt/samsung/  
-  sudo mv uld/ /opt/samsung/
+  sudo mkdir -pv /opt/samsung/src/
+  sudo mv uld/ /opt/samsung/src/
   ```
 
 
