@@ -1,8 +1,8 @@
-# Linux ^®oller — Annoyances-by-Design ^Debian9 ^Stretch
+# Linux <sup>®oller</sup> — principle — dev ex deprecated
 
-### …music inside ^better ^sound
+### …music inside <sup>better sound</sup>
 
-don't get too complicated
+don't get too complicated – Annoyances-by-Design
 
 intrinsically ARCH fits avail to opt-in  
 science institutes r'n'w CentOS technically  
