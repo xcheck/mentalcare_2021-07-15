@@ -25,4 +25,6 @@ anda ahí
 
 ### care of coherence AI
 
+línea hasta donde enlucir
+
 [ :arrow_up_small: Five myths about consciousness ](https://www.washingtonpost.com/outlook/five-myths/five-myths-about-consciousness/2019/07/26/) _&nbsp;«  match w/ hospitable world it feels beeing welcome to entangel_
