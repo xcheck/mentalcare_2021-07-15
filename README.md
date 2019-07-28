@@ -21,3 +21,8 @@ anda ahí
 [ :arrow_up_small: Una estrella que orbita un agujero negro vuelve a confirmar la teoría de la relatividad de Einstein ](https://www.lanacion.com.ar/sociedad/una-estrella-orbita-agujero-negro-vuelve-confirmar-nid2271564) _&nbsp;« paso para luz por frecuencia_
 
 [ :arrow_up_small: Kein Warten auf Godot <sup><sup>ct</sup> 2019-15-140</sup> ](https://ct.de/ytc4) _&nbsp;« a la punta de vista_
+
+
+### care of coherence AI
+
+[ :arrow_up_small: Five myths about consciousness ](https://www.washingtonpost.com/outlook/five-myths/five-myths-about-consciousness/2019/07/26/) _&nbsp;«  match w/ hospitable world it feels beeing welcome to entangel_
