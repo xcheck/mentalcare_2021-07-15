@@ -13,7 +13,7 @@ A: beside the header, intentionally better grab the content of BSD 2-Clause "Sim
 ~~Sympathy~~ != entangeled w/ the NAZI-Nash disentangeled
 
 
-### luz – su impulso y su masa pa su velocidad × gravitación
+### luz y su impulso y su masa pa su velocidad × gravitación
 
 anda ahí
 
@@ -28,3 +28,14 @@ anda ahí
 línea hasta donde enlucir
 
 [ :arrow_up_small: Five myths about consciousness ](https://www.washingtonpost.com/outlook/five-myths/five-myths-about-consciousness/2019/07/26/) _&nbsp;«  match w/ hospitable world it feels beeing welcome to entangel_
+
+
+### stable energy minima pre-position
+
+AAT – channel animal assisted training  
+Sifu – honest dept abrogation investment
+
++2: **fügen** Gefühle · Sprache · Empfindungen → lernen  
++1: **töten** Ausschluss · Angst · Beteubung → sprengen  
+±0: **zeigen** base-de-ser · reglas-de-manejar → pon → iluminar → ordenar  
+-1: **fragen** logros · currículum → valores → objetivo
