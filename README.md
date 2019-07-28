@@ -19,3 +19,5 @@ anda ahí
 
 [ :arrow_up_small: Centuries-old physics problem that baffled Newton finally solved ](https://www.rt.com/news/463382-student-solves-spherical-aberration-newton/) _&nbsp;« ‘spherical aberration’ solves black hole lenses_  
 [ :arrow_up_small: Una estrella que orbita un agujero negro vuelve a confirmar la teoría de la relatividad de Einstein ](https://www.lanacion.com.ar/sociedad/una-estrella-orbita-agujero-negro-vuelve-confirmar-nid2271564) _&nbsp;« paso para luz por frecuencia_
+
+[ :arrow_up_small: Kein Warten auf Godot <sup><sup>ct</sup> 2019-15-140</sup> ](https://ct.de/ytc4) _&nbsp;« a la punta de vista_
