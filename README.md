@@ -35,8 +35,8 @@ línea hasta donde enlucir
 
 ### stable energy minima pre-position
 
-AAT – channel animal assisted training  
-Sifu – honest debt abrogation investment
+AAT – _channel_ animal assisted training  
+Sifu – _honest_ debt abrogation investment
 
 - [x] clear code
 
