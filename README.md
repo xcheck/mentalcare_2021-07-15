@@ -27,13 +27,18 @@ anda ahí
 
 línea hasta donde enlucir
 
+- [x] **Se Dice De Mí** de **Tita Merello** & Francisco Canaro Y Su Orquesta Típica
+- [x] **La Lujanera** ~ Eclipse ~ **6 Australes**
+
 [ :arrow_up_small: Five myths about consciousness ](https://www.washingtonpost.com/outlook/five-myths/five-myths-about-consciousness/2019/07/26/) _&nbsp;«  match w/ hospitable world it feels beeing welcome to entangel_
 
 
 ### stable energy minima pre-position
 
 AAT – channel animal assisted training  
-Sifu – honest dept abrogation investment
+Sifu – honest debt abrogation investment
+
+- [x] clear code
 
 +2: **fügen** Gefühle · Sprache · Empfindungen → lernen  
 +1: **töten** Ausschluss · Angst · Beteubung → sprengen  
