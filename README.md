@@ -27,10 +27,11 @@ anda ahí
 
 línea hasta donde enlucir
 
-- [x] **Se Dice De Mí** de **Tita Merello** & Francisco Canaro Y Su Orquesta Típica
-- [x] **La Lujanera** ~ Eclipse ~ **6 Australes**
+- [x] **{-Se Dice De Mí-}**{- de -}**{-Tita Merello-}**{- & Francisco Canaro Y Su Orquesta Típica-} _&nbsp;« a base de Tango…_
+- [x] **{+La Lujanera+}**{+ ~ Eclipse ~ +}**{+6 Australes+}** _&nbsp;« …con su par_
+- [x] **{+Como Me Voy A Olvidar+}**{+ ~ Los Reyes De La Canción ~ +}**{+Los Auténticos Decadentes+}** _&nbsp;« …con Punk Rock_
 
-[ :arrow_up_small: Five myths about consciousness ](https://www.washingtonpost.com/outlook/five-myths/five-myths-about-consciousness/2019/07/26/) _&nbsp;«  match w/ hospitable world it feels beeing welcome to entangel_
+[ :arrow_up_small: Five myths about consciousness ](https://www.washingtonpost.com/outlook/five-myths/five-myths-about-consciousness/2019/07/26/) _&nbsp;«  match w/ a hospitable world it feels beeing welcome to entangel_
 
 
 ### stable energy minima pre-position
@@ -40,7 +41,7 @@ Sifu – _honest_ debt abrogation investment
 
 - [x] clear code
 
-+2: **fügen** Gefühle · Sprache · Empfindungen → lernen  
-+1: **töten** Ausschluss · Angst · Beteubung → sprengen  
-±0: **zeigen** base-de-ser · reglas-de-manejar → pon → iluminar → ordenar  
--1: **fragen** logros · currículum → valores → objetivo
++2 — **fügen** — Gefühle · Sprache · Empfindungen → lernen  
++1 — **töten** — Ausschluss · Angst · Beteubung → sprengen  
+±0 — **zeigen** — base-de-ser · reglas-de-manejar → pon → iluminar → ordenar  
+-1 — **fragen** — logros · currículum → valores → objetivo
