@@ -31,7 +31,7 @@ línea hasta donde enlucir
 - [x] **{+La Lujanera+}**{+ ~ Eclipse ~ +}**{+6 Australes+}** _&nbsp;« …con su par_
 - [x] **{+Como Me Voy A Olvidar+}**{+ ~ Los Reyes De La Canción ~ +}**{+Los Auténticos Decadentes+}** _&nbsp;« …con Punk Rock_
 
-[ :arrow_up_small: Five myths about consciousness ](https://www.washingtonpost.com/outlook/five-myths/five-myths-about-consciousness/2019/07/26/) _&nbsp;«  match w/ a hospitable world it feels beeing welcome to entangel_
+[ :arrow_up_small: Five myths about consciousness ](https://www.washingtonpost.com/outlook/five-myths/five-myths-about-consciousness/2019/07/26/) _&nbsp;«  match w/ a hospitable world it feels being welcome to entangel_
 
 
 ### stable energy minima pre-position
