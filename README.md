@@ -39,7 +39,7 @@ línea hasta donde enlucir
 mis commentarios 11 y 12 en [ :arrow_up_small: (…) marcan el futuro de la inteligencia artificial ][elpaisCoherenceAI] – ausgelöst durch [ :arrow_up_small: Forbes-Nash/Ch.Inninger-Seibt (…) n-te Abmahnung vom 31.07.2019 ][NashInningerSeibt]
 
 [elpaisCoherenceAI]: https://elpais.com/elpais/2019/07/29/ciencia/1564394653_192603.html
-[NashInningerSeibt]: https://www.rollator-parcours.com/de/img/20190731-Nash-Inninger-Seibt--20190731-MsgY5-MietwohnungAbmahnungNash--MintWebmail/
+[NashInningerSeibt]: https://rollparc.com/clue.in/HametnerUwe/insurance/20190731-Nash-Inninger-Seibt--20190731-MsgY5-MietwohnungAbmahnungNash--MintWebmail/
 
 
 ### stable energy minima pre-position
