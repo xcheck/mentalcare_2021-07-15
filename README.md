@@ -53,3 +53,5 @@ Sifu – _honest_ debt abrogation investment
 +1 — **töten** — Ausschluss · Angst · Beteubung → sprengen  
 ±0 — **zeigen** — base-de-ser · reglas-de-manejar → pon → iluminar → ordenar  
 -1 — **fragen** — logros · currículum → valores → objetivo
+
+**mirror neuron** ← symmetrics proof to have essential rtl-nations
