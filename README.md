@@ -47,11 +47,11 @@ mis commentarios 11 y 12 en [ :arrow_up_small: (…) marcan el futuro de la inte
 AAT – _channel_ animal assisted training  
 Sifu – _honest_ debt abrogation investment
 
-- [x] clear code _(el falso infecta a la comunicación, extinción de la capacidad)_
+- [x] clear code _&nbsp;(el falso infecta a la comunicación, extinción de la capacidad)_
 
 +2 — **fügen** — Gefühle · Sprache · Empfindungen → lernen  
 +1 — **töten** — Ausschluss · Angst · Beteubung → sprengen  
-±0 — **zeigen** — base-de-ser · reglas-de-manejar → pon → iluminar → ordenar  
+±0 — **zeigen** — base-de-ser · reglas-de-manejar → pon → iluminar → ordenar _&nbsp;(desintoxicar)_  
 -1 — **fragen** — logros · currículum → valores → objetivo
 
 **mirror neuron** ← symmetrics proof to have essential rtl-nations
