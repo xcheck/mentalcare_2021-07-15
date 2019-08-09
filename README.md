@@ -47,7 +47,7 @@ mis commentarios 11 y 12 en [ :arrow_up_small: (…) marcan el futuro de la inte
 AAT – _channel_ animal assisted training  
 Sifu – _honest_ debt abrogation investment
 
-- [x] clear code
+- [x] clear code _(el falso infecta a la comunicación, extinción de la capacidad)_
 
 +2 — **fügen** — Gefühle · Sprache · Empfindungen → lernen  
 +1 — **töten** — Ausschluss · Angst · Beteubung → sprengen  
