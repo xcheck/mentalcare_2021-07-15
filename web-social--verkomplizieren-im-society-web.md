@@ -1,3 +1,3 @@
-# Liste Beteiligung Diskussionen per Kommentar
+# Liste — Diskussionen per Kommentar
 
 {-REBUILD-PENDING-}
