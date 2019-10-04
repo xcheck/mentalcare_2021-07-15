@@ -25,7 +25,7 @@ anda ahí
 
 ### care of coherence AI
 
-línea hasta donde enlucir
+línea hasta donde enlucir &#x2611;
 
 - [x] **{-Se Dice De Mí-}**{- de -}**{-Tita Merello-}**{- & Francisco Canaro Y Su Orquesta Típica-} _&nbsp;« a base de Tango…_
 - [x] **{+La Lujanera+}**{+ ~ Eclipse ~ +}**{+6 Australes+}** _&nbsp;« …con su par_
