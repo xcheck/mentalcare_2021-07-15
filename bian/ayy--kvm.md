@@ -73,9 +73,9 @@
 [winguestdrv1]: https://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers
 [winguestdrv2]: https://docs.fedoraproject.org/en-US/quick-docs/creating-windows-virtual-machines-using-virtio-drivers/
 
-![winsetup](https://www.rollator-parcours.com/de/HOWTO/KVM/Windows10-für-iTunes/img/Bildschirmfoto_vom_2019-01-10_18-42-58.png)
+![winsetup](https://www.rollator-parcours.com/de/HOWTO/KVM/Windows10-fuer-iTunes/img/Bildschirmfoto_vom_2019-01-10_18-42-58.png)
 
-![winready](https://www.rollator-parcours.com/de/HOWTO/KVM/Windows10-für-iTunes/img/Bildschirmfoto_vom_2019-01-10_19-30-28.jpg)
+![winready](https://www.rollator-parcours.com/de/HOWTO/KVM/Windows10-fuer-iTunes/img/Bildschirmfoto_vom_2019-01-10_19-30-28.jpg)
 
 
 ### Fernzugriff auf Windows 10 Pro et al.
