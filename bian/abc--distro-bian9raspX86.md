@@ -99,7 +99,7 @@
 chroot
 
 calibre
-kde-l10n-de kde-icons-mono digikam kdenlive
+kde-l10n-de kde-icons-mono digikam darktable kdenlive
 
 panel-clock: %R'%S
 
