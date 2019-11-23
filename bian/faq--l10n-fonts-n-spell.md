@@ -1,10 +1,18 @@
 # Debian 9 "Stretch" spin-off Raspbian
 
 `libreoffice-l10n-de` `libreoffice-help-de` \(libreoffice-style-tango\) \(libreoffice-style-galaxy\) `[firefox-esr-l10n-de]` `[chromium-l10n]` `kde-l10n-de` ` kde-icons-mono`  
-`enchant` \(aspell-de\) `hunspell-de-de-frami` `hyphen-de mythes-de` `geany-plugin-spellcheck`   # /usr/share/myspell/dicts  
+`enchant` \(aspell-de\) `hunspell-de-de-frami` `hyphen-de` `mythes-de` `geany-plugin-spellcheck`   # /usr/share/myspell/dicts  
 `ttf-mscorefonts-installer` `fonts-crosextra-caladea` `fonts-crosextra-carlito` # ttf-liberation dropped for fonts-liberation  
 `fonts-mathjax` `fonts-wqy-microhei`  
 `gnome-keyring`   # requisite w/ evolution
+
+
+## Debian 10 "Buster" spin-off Mint
+
+`[libreoffice-style-tango]` `[libreoffice-style-galaxy]` `[firefox-locale-de]` `chromium-browser-l10n` `kde-l10n-de`  
+`[enchant]` `[hunspell-de-de-frami]` `[hyphen-de]` `[mythes-de]` `geany-plugin-spellcheck`  
+`ttf-mscorefonts-installer` `fonts-crosextra-caladea` `fonts-crosextra-carlito`  
+`[fonts-mathjax]` `fonts-wqy-microhei`
 
 
 ### ttf-liberation dropped for fonts-liberation
