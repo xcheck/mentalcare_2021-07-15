@@ -7,7 +7,7 @@
 `gnome-keyring`   # requisite w/ evolution
 
 
-## Debian 10 "Buster" spin-off Mint
+## Debian 9 "Stretch" spin-off Mint
 
 `[libreoffice-style-tango]` `[libreoffice-style-galaxy]` `[firefox-locale-de]` `chromium-browser-l10n` `kde-l10n-de`  
 `[enchant]` `[hunspell-de-de-frami]` `[hyphen-de]` `[mythes-de]` `geany-plugin-spellcheck`  
