@@ -20,6 +20,13 @@
 
 ### kvm/spice server, client, guest
 
++ **Red Hat's SPICE 0.14.3 Remote Display System Now Supports Microsoft Windows**  
+  [ :arrow_up_small: https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-SPICE-0.14.3-Released ][spice_0.14.3]
+
+
+[spice_0.14.3]: https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-SPICE-0.14.3-Released
+
+
 + **qemu-kvm** _« \(Ubuntu18.04<sup>Mint19.1</sup>\)_
   
   ```
