@@ -1,4 +1,11 @@
 # Windows tweaks
+### from Preview<em>-master</em>->Child<em>-branch</em>->Au<em>-s^ave (stable)</em>
+to login mask-home-office1-office2-n windows container
+
+Windows bekommt Dev-, Beta- und **Preview-Channel**  
+https://www.golem.de/news/microsoft-windows-bekommt-dev-beta-und-preview-channel-2006-149115.html
+
+
 ### Cheat sheet und andere Oster-Eier
 
 + **"Compact OS" statt NTFS-Kompression** [ <sup><sup>ct</sup> 2017-09-146</sup> ](https://ct.de/yk9n)  
