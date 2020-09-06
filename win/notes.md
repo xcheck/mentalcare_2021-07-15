@@ -1,6 +1,11 @@
 # Windows tweaks
-### from Preview<em>-master</em>->Child<em>-branch</em>->Au<em>-s^ave (stable)</em>
+### from Preview<em>-master</em>→Child<em>-branch</em>→Au<em>-s^ave (stable)</em>
 to login mask-home-office1-office2-n windows container
+
+shaping “MS Chrome OS” volume time  
+3D container<b>-dedicated</b> _&nbsp;« party volume time_  
+4D <b>thin-</b>control _&nbsp;« world volume time_  
+5D **universe-pulse** _&nbsp;« all volume time_
 
 Windows bekommt Dev-, Beta- und **Preview-Channel**  
 https://www.golem.de/news/microsoft-windows-bekommt-dev-beta-und-preview-channel-2006-149115.html
