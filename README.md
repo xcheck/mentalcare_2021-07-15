@@ -1,8 +1,7 @@
-Q: why a MIT License  
-A: beside the header, intentionally better grab the content of BSD 2-Clause "Simplified" License
-
-
+Q: why a MIT License\
+A: beside the header, intentionally better grab the content of BSD 2-Clause "Simplified" License\
 <br>
+
 
 # …README
 ### quantum in physical property ?= entangelment in physically indistinguishable aggregation :popcorn:
@@ -39,19 +38,19 @@ línea hasta donde enlucir &#x2611;
 mis commentarios 11 y 12 en [ :arrow_up_small: (…) marcan el futuro de la inteligencia artificial ][elpaisCoherenceAI] – ausgelöst durch [ :arrow_up_small: Forbes-Nash/Ch.Inninger-Seibt (…) n-te Abmahnung vom 31.07.2019 ][NashInningerSeibt]
 
 [elpaisCoherenceAI]: https://elpais.com/elpais/2019/07/29/ciencia/1564394653_192603.html
-[NashInningerSeibt]: https://rollparc.com/clue.in/HametnerUwe/insurance/20171128--20190731-Nash-Inninger-Seibt--MsgY5-MietwohnungAbmahnungNash--MintWebmail/
+[NashInningerSeibt]: http://www.rollator-parcours.com/de/2019-07-30--Wir-sind-Eine-Globale-Familie--Zitat-von-Merkel-Leyen-AKK/20171128--20190731-Nash-Inninger-Seibt--MsgY5-MietwohnungAbmahnungNash--MintWebmail/
 
 
 ### stable energy minima pre-position
 
-AAT – _channel_ animal assisted training  
+AAT – _channel_ animal assisted training\
 Sifu – _honest_ debt abrogation investment
 
 - [x] clear code _&nbsp;(el falso infecta a la comunicación, extinción de la capacidad)_
 
-+2 — **fügen** — Gefühle · Sprache · Empfindungen → lernen  
-+1 — **töten** — Ausschluss · Angst · Beteubung → sprengen  
-±0 — **zeigen** — base-de-ser · reglas-de-manejar → pon → iluminar → ordenar _&nbsp;(desintoxicar)_  
++2 — **fügen** — Gefühle · Sprache · Empfindungen → lernen\
++1 — **töten** — Ausschluss · Angst · Beteubung → sprengen\
+±0 — **zeigen** — base-de-ser · reglas-de-manejar → pon → iluminar → ordenar _&nbsp;(desintoxicar)_\
 -1 — **fragen** — logros · currículum → valores → objetivo
 
 **mirror neuron** ← symmetrics proof to have essential rtl-nations
